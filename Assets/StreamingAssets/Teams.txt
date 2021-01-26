@@ -1,0 +1,144 @@
+{"Name":"Gambit","ID":6651}
+{"Name":"ViCi","ID":7606}
+{"Name":"Renegades","ID":6211}
+{"Name":"Sprout","ID":8637}
+{"Name":"9z","ID":9996}
+{"Name":"paiN","ID":4773}
+{"Name":"Rise","ID":10687}
+{"Name":"Rugratz","ID":10017}
+{"Name":"ORDER","ID":8668}
+{"Name":"1WIN","ID":10621}
+{"Name":"Havan Liberty","ID":10815}
+{"Name":"Yeah","ID":8728}
+{"Name":"Infinity","ID":9963}
+{"Name":"ZIGMA","ID":10675}
+{"Name":"Secret Club","ID":10747}
+{"Name":"TeamOne","ID":6947}
+{"Name":"Baecon","ID":9768}
+{"Name":"Chaos","ID":9085}
+{"Name":"Vitality","ID":9565}
+{"Name":"Tricked","ID":4602}
+{"Name":"Sinners","ID":10577}
+{"Name":"Sangal","ID":10333}
+{"Name":"Natus Vincere","ID":4608}
+{"Name":"OPAA","ID":7743}
+{"Name":"SKDC","ID":5454}
+{"Name":"GSG9","ID":10907}
+{"Name":"Isurus","ID":7653}
+{"Name":"Espada","ID":8669}
+{"Name":"Astralis","ID":6665}
+{"Name":"Spirit","ID":7020}
+{"Name":"TYLOO","ID":4863}
+{"Name":"OG","ID":10503}
+{"Name":"Poland","ID":10902}
+{"Name":"SKADE","ID":10386}
+{"Name":"PACT","ID":8248}
+{"Name":"Bad News Bears","ID":9799}
+{"Name":"High Coast","ID":10611}
+{"Name":"Virtus.pro","ID":5378}
+{"Name":"NAVI Junior","ID":10371}
+{"Name":"LowLandLions","ID":4579}
+{"Name":"Winstrike","ID":9183}
+{"Name":"HellRaisers","ID":5310}
+{"Name":"MAD Lions","ID":8362}
+{"Name":"x6tence","ID":4468}
+{"Name":"ALTERNATE aTTaX","ID":4501}
+{"Name":"K23","ID":7244}
+{"Name":"Movistar Riders","ID":7718}
+{"Name":"Heroic","ID":7175}
+{"Name":"IN.GAME","ID":10931}
+{"Name":"ex-ETHEREAL","ID":10929}
+{"Name":"Endpoint","ID":7234}
+{"Name":"LDLC","ID":4674}
+{"Name":"Galaxy Racer","ID":10764}
+{"Name":"Lyngby Vikings","ID":8963}
+{"Name":"GGPR","ID":9974}
+{"Name":"Liquid","ID":5973}
+{"Name":"OFFSET","ID":8515}
+{"Name":"Giants","ID":4949}
+{"Name":"Illuminar","ID":8813}
+{"Name":"sAw","ID":10567}
+{"Name":"AVANT","ID":5293}
+{"Name":"fnatic","ID":4991}
+{"Name":"Entropiq","ID":10831}
+{"Name":"Mythic","ID":5479}
+{"Name":"FURIA","ID":8297}
+{"Name":"Budapest Five","ID":9802}
+{"Name":"New England Whalers","ID":9888}
+{"Name":"Project X","ID":10473}
+{"Name":"Wisla Krakow","ID":10426}
+{"Name":"flowskola","ID":10891}
+{"Name":"Triumph","ID":10304}
+{"Name":"Nemiga","ID":7969}
+{"Name":"forZe","ID":8135}
+{"Name":"BIG","ID":7532}
+{"Name":"MIBR","ID":9215}
+{"Name":"mousesports","ID":4494}
+{"Name":"STMN","ID":10897}
+{"Name":"North","ID":7533}
+{"Name":"GamerLegion","ID":9928}
+{"Name":"MBAPPEEK","ID":10848}
+{"Name":"Complexity","ID":5005}
+{"Name":"EC Kyiv","ID":10888}
+{"Name":"River Plate","ID":10786}
+{"Name":"G2","ID":5995}
+{"Name":"Copenhagen Flames","ID":7461}
+{"Name":"XSET","ID":10926}
+{"Name":"AGO","ID":8068}
+{"Name":"Izako Boars","ID":7681}
+{"Name":"StylDunow","ID":10983}
+{"Name":"Lilmix","ID":9735}
+{"Name":"Heretics","ID":8346}
+{"Name":"NiP","ID":4411}
+{"Name":"NLG","ID":9789}
+{"Name":"Rebirth","ID":10357}
+{"Name":"c0ntact","ID":10606}
+{"Name":"Evil Geniuses","ID":10399}
+{"Name":"GODSENT","ID":6902}
+{"Name":"TheDice","ID":9949}
+{"Name":"SJ","ID":8504}
+{"Name":"Young Ninjas","ID":10960}
+{"Name":"Invictus Int","ID":10817}
+{"Name":"SG.pro","ID":10105}
+{"Name":"Vexed","ID":8020}
+{"Name":"Pompa","ID":8209}
+{"Name":"9INE","ID":10278}
+{"Name":"GameAgents","ID":6652}
+{"Name":"Galaxy Racer fe","ID":10720}
+{"Name":"Saints","ID":10934}
+{"Name":"Unique","ID":9287}
+{"Name":"Case","ID":10894}
+{"Name":"TIGER","ID":10661}
+{"Name":"Hard Legion","ID":10421}
+{"Name":"hREDS","ID":10116}
+{"Name":"Cyber Legacy","ID":10677}
+{"Name":"Envy","ID":5991}
+{"Name":"ttc","ID":5540}
+{"Name":"AGF","ID":8704}
+{"Name":"HONORIS","ID":10737}
+{"Name":"Real Betis","ID":10734}
+{"Name":"MAESTRO","ID":7848}
+{"Name":"Cloud9","ID":5752}
+{"Name":"4glory","ID":10933}
+{"Name":"FATE","ID":9863}
+{"Name":"Nexus","ID":7187}
+{"Name":"AVEZ","ID":9797}
+{"Name":"Apeks","ID":9806}
+{"Name":"VERTEX","ID":10672}
+{"Name":"FaZe","ID":6667}
+{"Name":"VP.Prodigy","ID":10864}
+{"Name":"Chiefs","ID":6010}
+{"Name":"Dignitas","ID":5422}
+{"Name":"Secret","ID":10488}
+{"Name":"RBG","ID":10258}
+{"Name":"Nordavind","ID":8769}
+{"Name":"Coscu Army","ID":8871}
+{"Name":"KOVA","ID":9648}
+{"Name":"Wygers","ID":10592}
+{"Name":"Invictus","ID":7966}
+{"Name":"Unicorns of Love","ID":9812}
+{"Name":"Meta","ID":10793}
+{"Name":"Singularity","ID":6978}
+{"Name":"NOFEAR5","ID":10928}
+{"Name":"Depth","ID":10331}
+{"Name":"Furious","ID":6799}

@@ -177,6 +177,11 @@ public static class UpcomingMatchesHandler
             }
         }
 
+        if (lastUpcomingMatch.FirstTeamID > 0 && lastUpcomingMatch.SecondTeamID > 0)
+        {
+            upcomingMatches.Add(lastUpcomingMatch);
+        }
+
         return upcomingMatches;
     }
 }

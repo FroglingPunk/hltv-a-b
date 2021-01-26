@@ -8,6 +8,7 @@ public class UpcomingMatch
     public int Format;
 
     public string EventName;
+    public int EventID;
 
     public DateTime DateTime;
 

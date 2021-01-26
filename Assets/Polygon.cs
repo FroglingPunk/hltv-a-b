@@ -36,18 +36,18 @@ public class Polygon : MonoBehaviour
             {
                 Debug.Log(allTeams[i].ToString());
 
-                string htmlPath = @"https://www.hltv.org/team/" + allTeams[i].ID + @"/" + allTeams[i].Team + @"#tab-statsBox";
-                allTeams[i].mapsStatistics = GetPistolRoundStats(HTMLUtility.GetResponse(htmlPath)).ToArray();
+                //string htmlPath = @"https://www.hltv.org/team/" + allTeams[i].ID + @"/" + allTeams[i].Team + @"#tab-statsBox";
+                //allTeams[i].mapsStatistics = GetPistolRoundStats(HTMLUtility.GetResponse(htmlPath)).ToArray();
             }
 
-            using (StreamWriter stream = File.CreateText(Path.Combine(Application.streamingAssetsPath, "db.txt")))
-            {
-                for (int i = 0; i < allTeams.Count; i++)
-                {
-                    string json = JsonUtility.ToJson(allTeams[i]);
-                    stream.WriteLine(json);
-                }
-            }
+            //using (StreamWriter stream = File.CreateText(Path.Combine(Application.streamingAssetsPath, "db.txt")))
+            //{
+            //    for (int i = 0; i < allTeams.Count; i++)
+            //    {
+            //        string json = JsonUtility.ToJson(allTeams[i]);
+            //        stream.WriteLine(json);
+            //    }
+            //}
         }
 
         if (GET_TEAM_STATS)
@@ -120,7 +120,7 @@ public class Polygon : MonoBehaviour
 
                     if (firstTeamMapStats != null && secondTeamMapStats != null)
                     {
-                        if (Mathf.Abs(firstTeamMapStats.TotalPistolRoundWinPercent - secondTeamMapStats.TotalPistolRoundWinPercent) > suitableDelta)
+                        if (Mathf.Abs((float)firstTeamMapStats.PistolRoundsStatistics.TotalPistolRoundWinPercent - (float)secondTeamMapStats.PistolRoundsStatistics.TotalPistolRoundWinPercent) > suitableDelta)
                         {
                             Debug.Log(firstTeam.Team + " VS " + secondTeam.Team + " BO" + upcomingMatches[i].Format + " on " + upcomingMatches[i].DateTime + " ::: " + currentMap);
                         }
@@ -226,7 +226,7 @@ public class Polygon : MonoBehaviour
 
             PRstring = PRstring.Replace(".", ",");
 
-            mapStats.TotalPistolRoundWinPercent = float.Parse(PRstring);
+            mapStats.PistolRoundsStatistics = new PistolRoundsStatistics();
 
             string mapString = strings[PRstringsID[i] + 4];
             for (int p = 0; p < maps.Length; p++)
@@ -336,4 +336,14 @@ public class Polygon : MonoBehaviour
 
         return team;
     }
+
+
+
+
+
+
+
+
+
+
 }

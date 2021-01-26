@@ -4,7 +4,7 @@ using System.Text;
 
 public static class HTMLUtility
 {
-    static public string GetResponse(string uri)
+    public static string GetResponse(string uri)
     {
         try
         {
