@@ -16,6 +16,7 @@ public class HLTVAPI : MonoBehaviour
     public string uri;
     public string teamPageURI;
     public int teamID;
+    public EMap map;
 
 
 
@@ -81,7 +82,7 @@ public class HLTVAPI : MonoBehaviour
 
             string teamOverviewPageURL = TeamIDUtility.BuildURLToTeamOverviewPage(TeamIDUtility.GetTeamData(teamID));
 
-            string url = BuildURL(EMap.Dust2, PlayersIDHAndler.GetTeampPlayersID(HTMLUtility.GetResponse(teamOverviewPageURL)).ToArray(),
+            string url = BuildURL(map, PlayersIDHAndler.GetTeampPlayersID(HTMLUtility.GetResponse(teamOverviewPageURL)).ToArray(),
                  DateTime.Now.Subtract(new TimeSpan(90, 0, 0, 0, 0)), DateTime.Now);
 
             string html = HTMLUtility.GetResponse(url);
