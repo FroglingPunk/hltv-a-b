@@ -1,144 +1,2708 @@
-{"Name":"Gambit","ID":6651}
-{"Name":"ViCi","ID":7606}
+{"Name":"SHADOWS","ID":9402}
+{"Name":"LANGUDAR","ID":9626}
+{"Name":"LSU","ID":9710}
+{"Name":"etopkald","ID":8804}
+{"Name":"ExidiuM","ID":9527}
+{"Name":"aimg0d","ID":9299}
+{"Name":"N4M1N0R","ID":10095}
+{"Name":"porcvac","ID":8540}
+{"Name":"CLG Red","ID":6242}
+{"Name":"Team rain","ID":9516}
+{"Name":"LEOPARD","ID":8676}
+{"Name":"E-Vian","ID":10247}
+{"Name":"Those Damn Canadians","ID":8565}
+{"Name":"University of Texas at Dallas","ID":9813}
+{"Name":"iNation","ID":4803}
+{"Name":"Fidem","ID":10311}
+{"Name":"NG","ID":10872}
+{"Name":"Vintage","ID":10752}
+{"Name":"ForGlory","ID":9110}
+{"Name":"COVE","ID":9366}
+{"Name":"taotoma","ID":9018}
+{"Name":"MDL All-Star boltz","ID":9932}
+{"Name":"OutPlayed","ID":7981}
+{"Name":"Grayhound","ID":8008}
+{"Name":"cqf","ID":10883}
+{"Name":"AfterLife","ID":9207}
+{"Name":"Team China","ID":10482}
+{"Name":"Dignitas fe","ID":7640}
+{"Name":"Copenhagen Flames fe","ID":10173}
+{"Name":"cats","ID":9613}
+{"Name":"team7","ID":8773}
+{"Name":"ICON","ID":9866}
+{"Name":"HaFiÐ","ID":9953}
+{"Name":"MDL All-Star KSCERATO","ID":9931}
+{"Name":"Goodfellas","ID":8618}
+{"Name":"Black Storm","ID":9131}
+{"Name":"INCRED-C","ID":9134}
+{"Name":"CAS Howl","ID":8990}
+{"Name":"Invizy","ID":8818}
 {"Name":"Renegades","ID":6211}
-{"Name":"Sprout","ID":8637}
-{"Name":"9z","ID":9996}
-{"Name":"paiN","ID":4773}
-{"Name":"Rise","ID":10687}
-{"Name":"Rugratz","ID":10017}
-{"Name":"ORDER","ID":8668}
-{"Name":"1WIN","ID":10621}
-{"Name":"Havan Liberty","ID":10815}
-{"Name":"Yeah","ID":8728}
-{"Name":"Infinity","ID":9963}
-{"Name":"ZIGMA","ID":10675}
-{"Name":"Secret Club","ID":10747}
-{"Name":"TeamOne","ID":6947}
-{"Name":"Baecon","ID":9768}
-{"Name":"Chaos","ID":9085}
-{"Name":"Vitality","ID":9565}
-{"Name":"Tricked","ID":4602}
-{"Name":"Sinners","ID":10577}
-{"Name":"Sangal","ID":10333}
-{"Name":"Natus Vincere","ID":4608}
-{"Name":"OPAA","ID":7743}
-{"Name":"SKDC","ID":5454}
-{"Name":"GSG9","ID":10907}
-{"Name":"Isurus","ID":7653}
-{"Name":"Espada","ID":8669}
-{"Name":"Astralis","ID":6665}
-{"Name":"Spirit","ID":7020}
+{"Name":"NoTag","ID":9389}
+{"Name":"5POWER","ID":9629}
+{"Name":"Assassins","ID":9827}
+{"Name":"Tainted Minds","ID":7517}
+{"Name":"Russian Forces","ID":8483}
+{"Name":"MANS NOT HOT","ID":8543}
+{"Name":"aAa","ID":5639}
+{"Name":"freakss","ID":9172}
+{"Name":"POP4ZITS","ID":9144}
+{"Name":"All Star A","ID":9704}
+{"Name":"Team Squeaky","ID":10407}
+{"Name":"Parallax","ID":7077}
+{"Name":"Dirty Peek Petes","ID":10496}
+{"Name":"Nine","ID":10895}
+{"Name":"Team East","ID":9189}
+{"Name":"Skinlordz","ID":7511}
+{"Name":"EFBIJAJ","ID":9685}
+{"Name":"Team West","ID":9190}
+{"Name":"BDO","ID":9145}
+{"Name":"NOM","ID":9362}
+{"Name":"MDL All-Star Katie","ID":10184}
+{"Name":"CSGO-MDL","ID":10540}
+{"Name":"BARCELONA","ID":9262}
+{"Name":"dream[S]cape","ID":6714}
+{"Name":"FLuffy Gangsters","ID":6668}
+{"Name":"BOOT","ID":6898}
+{"Name":"Battalion","ID":7604}
+{"Name":"MDL All-Star b4rtiN","ID":10778}
+{"Name":"Polbit Pogon","ID":9944}
+{"Name":"KYNYNIEKAT","ID":10604}
+{"Name":"ex-eUnited","ID":10667}
+{"Name":"beastINSID3","ID":9044}
 {"Name":"TYLOO","ID":4863}
-{"Name":"OG","ID":10503}
-{"Name":"Poland","ID":10902}
-{"Name":"SKADE","ID":10386}
-{"Name":"PACT","ID":8248}
-{"Name":"Bad News Bears","ID":9799}
-{"Name":"High Coast","ID":10611}
-{"Name":"Virtus.pro","ID":5378}
-{"Name":"NAVI Junior","ID":10371}
-{"Name":"LowLandLions","ID":4579}
-{"Name":"Winstrike","ID":9183}
-{"Name":"HellRaisers","ID":5310}
-{"Name":"MAD Lions","ID":8362}
-{"Name":"x6tence","ID":4468}
-{"Name":"ALTERNATE aTTaX","ID":4501}
-{"Name":"K23","ID":7244}
-{"Name":"Movistar Riders","ID":7718}
-{"Name":"Heroic","ID":7175}
-{"Name":"IN.GAME","ID":10931}
-{"Name":"ex-ETHEREAL","ID":10929}
-{"Name":"Endpoint","ID":7234}
-{"Name":"LDLC","ID":4674}
-{"Name":"Galaxy Racer","ID":10764}
-{"Name":"Lyngby Vikings","ID":8963}
-{"Name":"GGPR","ID":9974}
-{"Name":"Liquid","ID":5973}
-{"Name":"OFFSET","ID":8515}
-{"Name":"Giants","ID":4949}
-{"Name":"Illuminar","ID":8813}
-{"Name":"sAw","ID":10567}
-{"Name":"AVANT","ID":5293}
-{"Name":"fnatic","ID":4991}
-{"Name":"Entropiq","ID":10831}
-{"Name":"Mythic","ID":5479}
+{"Name":"BOOM","ID":7733}
+{"Name":"ORDER","ID":8668}
+{"Name":"Ardeont","ID":8654}
+{"Name":"Astralis","ID":6665}
+{"Name":"Kennesaw State University ","ID":9816}
+{"Name":"Evolve","ID":10550}
+{"Name":"Eastern Giants","ID":9957}
+{"Name":"Sunshine","ID":9082}
+{"Name":"CHI DA?","ID":9600}
+{"Name":"MDL All-Star chelo","ID":10524}
+{"Name":"RvN","ID":5167}
+{"Name":"Invictus","ID":9223}
+{"Name":"Team FalleN","ID":9217}
 {"Name":"FURIA","ID":8297}
-{"Name":"Budapest Five","ID":9802}
-{"Name":"New England Whalers","ID":9888}
-{"Name":"Project X","ID":10473}
-{"Name":"Wisla Krakow","ID":10426}
-{"Name":"flowskola","ID":10891}
-{"Name":"Triumph","ID":10304}
-{"Name":"Nemiga","ID":7969}
-{"Name":"forZe","ID":8135}
-{"Name":"BIG","ID":7532}
-{"Name":"MIBR","ID":9215}
-{"Name":"mousesports","ID":4494}
-{"Name":"STMN","ID":10897}
-{"Name":"North","ID":7533}
-{"Name":"GamerLegion","ID":9928}
-{"Name":"MBAPPEEK","ID":10848}
+{"Name":"de_mirage","ID":9301}
+{"Name":"Ninjas To Be","ID":10750}
+{"Name":"Gambit Youngsters","ID":9976}
+{"Name":"Lazarus","ID":9945}
+{"Name":"Team UK","ID":7890}
+{"Name":"Wimax","ID":10416}
+{"Name":"dreamchasers","ID":7378}
+{"Name":"Secret Club","ID":10747}
+{"Name":"Levitate","ID":6335}
+{"Name":"GX","ID":8372}
+{"Name":"Etab","ID":8374}
+{"Name":"Finch","ID":10535}
+{"Name":"ez money crew","ID":9068}
 {"Name":"Complexity","ID":5005}
-{"Name":"EC Kyiv","ID":10888}
-{"Name":"River Plate","ID":10786}
-{"Name":"G2","ID":5995}
-{"Name":"Copenhagen Flames","ID":7461}
-{"Name":"XSET","ID":10926}
-{"Name":"AGO","ID":8068}
-{"Name":"Izako Boars","ID":7681}
-{"Name":"StylDunow","ID":10983}
-{"Name":"Lilmix","ID":9735}
-{"Name":"Heretics","ID":8346}
-{"Name":"NiP","ID":4411}
-{"Name":"NLG","ID":9789}
-{"Name":"Rebirth","ID":10357}
-{"Name":"c0ntact","ID":10606}
-{"Name":"Evil Geniuses","ID":10399}
-{"Name":"GODSENT","ID":6902}
-{"Name":"TheDice","ID":9949}
-{"Name":"SJ","ID":8504}
-{"Name":"Young Ninjas","ID":10960}
-{"Name":"Invictus Int","ID":10817}
-{"Name":"SG.pro","ID":10105}
-{"Name":"Vexed","ID":8020}
-{"Name":"Pompa","ID":8209}
-{"Name":"9INE","ID":10278}
-{"Name":"GameAgents","ID":6652}
+{"Name":"MIBR","ID":9215}
 {"Name":"Galaxy Racer fe","ID":10720}
-{"Name":"Saints","ID":10934}
-{"Name":"Unique","ID":9287}
-{"Name":"Case","ID":10894}
+{"Name":"ex-Spotnet","ID":9156}
+{"Name":"PELAFUSTANES","ID":9755}
+{"Name":"Signify","ID":9782}
+{"Name":"Não Tem Como","ID":6267}
+{"Name":"MDL All-Star gMd","ID":10183}
+{"Name":"House Club","ID":9421}
+{"Name":"Middle East","ID":9388}
+{"Name":"catman","ID":10220}
+{"Name":"FcottoNd","ID":9964}
+{"Name":"Memorable","ID":8944}
+{"Name":"Waterboys","ID":9541}
+{"Name":"BTRG.HK","ID":9654}
+{"Name":"ex-Cloud9","ID":10882}
+{"Name":"GOSU","ID":8852}
+{"Name":"2FAST2FURIOUS","ID":8765}
+{"Name":"Orgless","ID":10618}
+{"Name":"Great Danes","ID":8971}
+{"Name":"sweaty in the fridge","ID":9342}
+{"Name":"CR4ZY","ID":10150}
 {"Name":"TIGER","ID":10661}
-{"Name":"Hard Legion","ID":10421}
-{"Name":"hREDS","ID":10116}
-{"Name":"Cyber Legacy","ID":10677}
-{"Name":"Envy","ID":5991}
-{"Name":"ttc","ID":5540}
-{"Name":"AGF","ID":8704}
-{"Name":"HONORIS","ID":10737}
-{"Name":"Real Betis","ID":10734}
-{"Name":"MAESTRO","ID":7848}
-{"Name":"Cloud9","ID":5752}
-{"Name":"4glory","ID":10933}
-{"Name":"FATE","ID":9863}
-{"Name":"Nexus","ID":7187}
-{"Name":"AVEZ","ID":9797}
-{"Name":"Apeks","ID":9806}
-{"Name":"VERTEX","ID":10672}
-{"Name":"FaZe","ID":6667}
-{"Name":"VP.Prodigy","ID":10864}
+{"Name":"Authority","ID":8821}
+{"Name":"AUGUST","ID":10328}
+{"Name":"c0ntact","ID":10606}
+{"Name":"5POWER","ID":7092}
+{"Name":"MVP PK","ID":7354}
+{"Name":"ownage","ID":5670}
+{"Name":"Natus Vincere","ID":4608}
+{"Name":"TeamOne","ID":6947}
+{"Name":"disORDER","ID":8812}
+{"Name":"Imperial","ID":7701}
+{"Name":"5orgless","ID":10227}
+{"Name":"Horseshoe","ID":9712}
+{"Name":"Evil Geniuses","ID":10399}
+{"Name":"Besiktas","ID":9263}
+{"Name":"G2","ID":5995}
+{"Name":"MKERS","ID":8447}
+{"Name":"100 Thieves","ID":8474}
+{"Name":"Originem","ID":10765}
+{"Name":"XSET","ID":10926}
+{"Name":"BIG","ID":7532}
+{"Name":"NewTeam","ID":9185}
+{"Name":"ShapeShift","ID":8907}
+{"Name":"INTZ","ID":6619}
+{"Name":"eUnited","ID":7106}
+{"Name":"MeMyself&amp;I","ID":7009}
+{"Name":"Bad News Bears","ID":9799}
+{"Name":"Bren","ID":10206}
+{"Name":"DELIRAWOWZIK","ID":10527}
+{"Name":"Flash","ID":7660}
+{"Name":"K23 fe","ID":8688}
+{"Name":"ex-Tempo Storm","ID":8896}
+{"Name":"Etherian","ID":8677}
+{"Name":"MDL All-Star swag","ID":9292}
+{"Name":"Born","ID":8431}
+{"Name":"Team smooya","ID":9517}
+{"Name":"Valiance","ID":8481}
+{"Name":"ex-Atmosphere","ID":9038}
+{"Name":"Phoenix","ID":10430}
+{"Name":"STEIN","ID":9260}
+{"Name":"TNC","ID":5257}
+{"Name":"Uniquestars","ID":7739}
+{"Name":"Flygplan","ID":9428}
+{"Name":"RES","ID":8727}
+{"Name":"Refuse","ID":4929}
+{"Name":"AVENGERS","ID":8786}
+{"Name":"GoodJob","ID":7820}
+{"Name":"Gorilla Gang","ID":10332}
+{"Name":"Paper Rex","ID":10609}
+{"Name":"Poland","ID":10902}
+{"Name":"Aequus","ID":8909}
+{"Name":"Swole Patrol","ID":7726}
+{"Name":"Vision","ID":9227}
+{"Name":"Inflames","ID":10018}
+{"Name":"SK","ID":6137}
+{"Name":"ENZO","ID":7324}
+{"Name":"Interstellar","ID":9319}
+{"Name":"New Identity","ID":10080}
+{"Name":"BOOT-d[S]","ID":7567}
+{"Name":"meww","ID":10814}
+{"Name":"BRZINA","ID":9661}
+{"Name":"NOORG","ID":9632}
+{"Name":"Sinners","ID":10577}
+{"Name":"xDparty","ID":9834}
+{"Name":"Ze Pug Godz","ID":6238}
+{"Name":"Team World","ID":10483}
+{"Name":"Invictus","ID":7231}
+{"Name":"MDL All-Star freakazoid","ID":9016}
+{"Name":"the boyz","ID":9715}
+{"Name":"ARES fe","ID":8625}
+{"Name":"nGse","ID":7116}
+{"Name":"Dragon","ID":10431}
+{"Name":"OG","ID":10503}
+{"Name":"Team123","ID":6758}
+{"Name":"Armada","ID":8877}
+{"Name":"mousesports","ID":4494}
+{"Name":"GD","ID":9456}
+{"Name":"Galaxy Racer","ID":10764}
+{"Name":"HZ","ID":10569}
+{"Name":"ATK","ID":9943}
+{"Name":"PAPERPLANES","ID":8997}
+{"Name":"Nemesis","ID":9488}
+{"Name":"RAMS","ID":10743}
+{"Name":"ex-Space Soldiers","ID":9572}
+{"Name":"Tikitakan","ID":10766}
+{"Name":"uNiQUE","ID":10452}
+{"Name":"LFTOVER","ID":10056}
+{"Name":"SHIFT","ID":10115}
+{"Name":"The Pensioners","ID":9929}
+{"Name":"Riot Squad","ID":10164}
+{"Name":"Singularity fe","ID":8753}
+{"Name":"Positive Vibes Only","ID":10791}
+{"Name":"JackBoyz","ID":10756}
+{"Name":"Team n0thing","ID":9969}
+{"Name":"Quickhands","ID":9001}
+{"Name":"exDT","ID":8906}
+{"Name":"SkitLite","ID":6263}
+{"Name":"magazynpeek","ID":10230}
+{"Name":"BlackOut","ID":8700}
+{"Name":"Drip or Drown","ID":8861}
+{"Name":"FunPlus Phoenix","ID":10671}
+{"Name":"Wings Up","ID":10851}
+{"Name":"MegaWonsz9","ID":10106}
+{"Name":"Team Toxic","ID":10406}
+{"Name":"Jokers","ID":10601}
+{"Name":"WARDELL N Friends","ID":9833}
+{"Name":"Come Mid","ID":10870}
+{"Name":"B-beasts","ID":9486}
+{"Name":"Team Australia","ID":7891}
+{"Name":"Vyalie Pitoni","ID":9518}
+{"Name":"Impunity","ID":10313}
+{"Name":"Sprout","ID":8637}
+{"Name":"Vitality","ID":9565}
+{"Name":"Slovakia","ID":5141}
+{"Name":"Normal People and Rustun","ID":9066}
+{"Name":"Vitória","ID":9225}
+{"Name":"FALKN","ID":10612}
+{"Name":"Team coldzera","ID":9216}
+{"Name":"Team EU","ID":10214}
+{"Name":"o9","ID":9169}
+{"Name":"Liquid","ID":5973}
+{"Name":"fish123","ID":6298}
+{"Name":"AliGon","ID":4894}
+{"Name":"Misfits and Digenerates","ID":9769}
+{"Name":"cantwinalan","ID":9515}
+{"Name":"Wolsung","ID":7340}
+{"Name":"ViCi","ID":7606}
+{"Name":"STMN","ID":10897}
+{"Name":"paiN","ID":4773}
+{"Name":"Schadenfreude","ID":10284}
+{"Name":"NRG","ID":6673}
+{"Name":"FACEIT Level Tenz","ID":10495}
+{"Name":"FeelsBenchedMan","ID":9847}
+{"Name":"Lazarus fe","ID":9822}
+{"Name":"Jaguar","ID":7504}
+{"Name":"God Squad","ID":8749}
+{"Name":"Extra Salt","ID":10948}
+{"Name":"Conan's Money Crew","ID":9874}
+{"Name":"Just For Fun","ID":10531}
+{"Name":"90ss","ID":9281}
+{"Name":"MoscowMafia","ID":9056}
+{"Name":"Virtue","ID":7830}
+{"Name":"DeStRoYeRs","ID":8803}
+{"Name":"Crystal Bears","ID":8446}
+{"Name":"Viral","ID":8814}
+{"Name":"Win Scrims Not Matches","ID":9804}
+{"Name":"Clutch Solutions","ID":9111}
+{"Name":"forZe","ID":8135}
+{"Name":"koppxd","ID":8806}
+{"Name":"HoP","ID":7615}
+{"Name":"Beyond","ID":8262}
+{"Name":"Monolith","ID":9182}
+{"Name":"coREA","ID":8212}
+{"Name":"PRINCEADIL","ID":10522}
+{"Name":"Majestic Lions","ID":6576}
+{"Name":"x1 Academy","ID":9444}
+{"Name":"disADVANCtagED","ID":9278}
+{"Name":"Legacy","ID":6468}
+{"Name":"Space Soldiers","ID":5929}
+{"Name":"djakuyu","ID":9697}
+{"Name":"Rebirth","ID":10357}
+{"Name":"FYB","ID":9160}
+{"Name":"J Money Crew","ID":10361}
+{"Name":"Windigo","ID":8513}
+{"Name":"1337HUANIA","ID":7552}
+{"Name":"proWince","ID":5590}
+{"Name":"Spirit","ID":7020}
+{"Name":"Torqued","ID":5906}
+{"Name":"MAKEMiSTAKE","ID":7912}
+{"Name":"Binturong Boys","ID":10274}
+{"Name":"Crazy Killerz","ID":10877}
+{"Name":"GrabbarnaGrus","ID":7026}
+{"Name":"Level1","ID":9650}
+{"Name":"fnatic Academy","ID":7169}
+{"Name":"ZzzZzzz","ID":9669}
+{"Name":"R-Stars","ID":10472}
+{"Name":"Rise Nation","ID":7924}
+{"Name":"American Eagles","ID":8563}
+{"Name":"ex-Singularity","ID":10423}
+{"Name":"MDL All-Star steel","ID":9015}
+{"Name":"Imperial","ID":9455}
+{"Name":"slashLEVEL","ID":7635}
+{"Name":"Ten Gallon Terrors","ID":9683}
+{"Name":"Morning Light","ID":10722}
+{"Name":"MDL All-Star NikoM","ID":9726}
+{"Name":"ROG Pimp","ID":8696}
+{"Name":"Denial","ID":4643}
+{"Name":"MiTH","ID":6353}
+{"Name":"SoaR","ID":8384}
 {"Name":"Chiefs","ID":6010}
-{"Name":"Dignitas","ID":5422}
-{"Name":"Secret","ID":10488}
-{"Name":"RBG","ID":10258}
-{"Name":"Nordavind","ID":8769}
-{"Name":"Coscu Army","ID":8871}
-{"Name":"KOVA","ID":9648}
-{"Name":"Wygers","ID":10592}
-{"Name":"Invictus","ID":7966}
-{"Name":"Unicorns of Love","ID":9812}
-{"Name":"Meta","ID":10793}
+{"Name":"Rofed","ID":9239}
+{"Name":"toxic","ID":9235}
+{"Name":"Virus","ID":9405}
+{"Name":"De Steusels","ID":10323}
+{"Name":"Ramadanpeek","ID":10055}
+{"Name":"UltiCoin","ID":9376}
+{"Name":"Uruguay","ID":9855}
+{"Name":"Live on Three","ID":10014}
+{"Name":"NSPR","ID":7839}
+{"Name":"Aristocracy","ID":10020}
+{"Name":"Luminosity","ID":6290}
+{"Name":"Broderna145","ID":10956}
+{"Name":"9z","ID":9996}
+{"Name":"2115","ID":10458}
+{"Name":"Equals","ID":9382}
+{"Name":"Red Reserve","ID":7613}
+{"Name":"Fire Dragoon","ID":7421}
+{"Name":"ENCE","ID":4869}
+{"Name":"GAMERZONE","ID":10210}
+{"Name":"JigadooD","ID":10702}
+{"Name":"Goomba Squad","ID":9383}
+{"Name":"CyberZen","ID":6503}
+{"Name":"S Nastupaushim","ID":10562}
+{"Name":"subtLe","ID":7217}
+{"Name":"Most Wanted","ID":8316}
+{"Name":"ex-Royal Bandits","ID":9718}
+{"Name":"HyperioN","ID":9590}
+{"Name":"Sharks","ID":8113}
+{"Name":"LFAO","ID":8378}
+{"Name":"XGR","ID":9574}
+{"Name":"Casa de Papel","ID":10694}
+{"Name":"Freedom 35","ID":8744}
+{"Name":"CAS Lore","ID":8991}
+{"Name":"Ha MaSSe","ID":7472}
+{"Name":"Vireo.pro","ID":9161}
+{"Name":"Mexico","ID":6272}
+{"Name":"Yeah","ID":8728}
+{"Name":"Bajini Puleni","ID":8992}
+{"Name":"Dark Tigers","ID":7842}
+{"Name":"All Star B","ID":9705}
+{"Name":"aeM","ID":9180}
+{"Name":"wonderman","ID":10923}
+{"Name":"devils.one","ID":9862}
+{"Name":"BlinkDagger","ID":9998}
+{"Name":"North","ID":7533}
+{"Name":"Chris and the boys","ID":9926}
+{"Name":"Ztayhome","ID":10710}
+{"Name":"Infinity","ID":8025}
+{"Name":"Fierce","ID":9397}
+{"Name":"Keyd fe","ID":8498}
+{"Name":"OpTic Brasil","ID":9468}
+{"Name":"paiN fe","ID":9871}
+{"Name":"SamerTajm","ID":10121}
+{"Name":"Ex-Thunder Awaken","ID":9219}
+{"Name":"ex-NSPR","ID":8742}
+{"Name":"Recursive","ID":4680}
+{"Name":"Titan","ID":9845}
+{"Name":"IMBA.SAS","ID":9036}
+{"Name":"Team hazed","ID":9966}
+{"Name":"WE HAWT","ID":8882}
+{"Name":"VERSACE ACADEMY","ID":9901}
+{"Name":"Star Spangled Fraggers","ID":9647}
+{"Name":"ROG ceh9","ID":9792}
+{"Name":"Levadia","ID":10885}
+{"Name":"Business 5","ID":9396}
+{"Name":"Ancient","ID":6685}
+{"Name":"BestClub","ID":10263}
+{"Name":"ex-Epsilon","ID":10225}
+{"Name":"OPAA","ID":7743}
+{"Name":"XGR-X","ID":9050}
+{"Name":"Unknown fe","ID":9264}
+{"Name":"8EASY","ID":9906}
+{"Name":"NOBO","ID":9099}
+{"Name":"EXTREMUM","ID":10096}
+{"Name":"HellRaisers","ID":5310}
+{"Name":"FPL-CTalents","ID":10194}
+{"Name":"ex-Honor &amp; Glory","ID":9960}
+{"Name":"The Pioneers","ID":9014}
+{"Name":"FRENCH CANADIANS","ID":7616}
+{"Name":"zZzZz","ID":9196}
+{"Name":"Rugratz","ID":10017}
+{"Name":"Wild","ID":8895}
+{"Name":"average25iqbutheadshots","ID":9706}
+{"Name":"Team ROTW","ID":10149}
+{"Name":"Fragsters","ID":6855}
+{"Name":"XGS","ID":10383}
+{"Name":"Italy","ID":9766}
+{"Name":"Underdogs","ID":9357}
+{"Name":"Gorilla Gang","ID":8880}
+{"Name":"5randoms","ID":8740}
+{"Name":"Honor &amp; Glory","ID":9599}
+{"Name":"NorBant","ID":9748}
+{"Name":"Wise","ID":8797}
 {"Name":"Singularity","ID":6978}
+{"Name":"MWNL","ID":5699}
+{"Name":"Vicious Adikta","ID":10515}
+{"Name":"warmup","ID":9246}
+{"Name":"Southern Roofing","ID":9681}
+{"Name":"Apeks","ID":9806}
+{"Name":"Triumph","ID":10304}
+{"Name":"ex-Athletico","ID":8849}
+{"Name":"Anonymo","ID":10973}
+{"Name":"m1x","ID":7376}
+{"Name":"kindergarden","ID":9191}
+{"Name":"Fragging for Andy","ID":9781}
+{"Name":"Spacestation","ID":9566}
+{"Name":"BTRG","ID":9107}
+{"Name":"omae wa mou shindeiru","ID":9546}
+{"Name":"JESTE","ID":10438}
+{"Name":"Kinguin","ID":6134}
+{"Name":"trepunktnoll","ID":10703}
+{"Name":"ROYALS","ID":7555}
+{"Name":"RONIN","ID":6707}
+{"Name":"Asuna's Anime Aimers","ID":10538}
+{"Name":"RESOLUTE","ID":9228}
+{"Name":"Cloud9","ID":5752}
+{"Name":"Rise","ID":10687}
+{"Name":"Depreso","ID":10341}
+{"Name":"Secret","ID":10488}
+{"Name":"AZIO","ID":8718}
+{"Name":"Fierce Tiger","ID":9030}
+{"Name":"CheckSix","ID":8351}
 {"Name":"NOFEAR5","ID":10928}
+{"Name":"DJAEVELS","ID":9995}
+{"Name":"Rap Gang","ID":10261}
+{"Name":"Jail On Shooting","ID":9255}
+{"Name":"Chaos","ID":9085}
+{"Name":"London Slayers","ID":9840}
+{"Name":"ex-Windigo","ID":10445}
+{"Name":"GODSENT","ID":6902}
+{"Name":"blitz","ID":9514}
+{"Name":"WASD","ID":7668}
+{"Name":"Defusekids","ID":7666}
+{"Name":"AVANGAR","ID":8120}
+{"Name":"CONLIT","ID":8868}
+{"Name":"GUNRUNNERS","ID":4978}
+{"Name":"Team seang@res","ID":9968}
+{"Name":"Steam Rollers","ID":9664}
+{"Name":"Epiphany Bolt","ID":6220}
+{"Name":"Ignis","ID":9105}
+{"Name":"Bpro","ID":6762}
+{"Name":"All Knights","ID":9837}
+{"Name":"ex-Luminosity","ID":10340}
+{"Name":"shoot back","ID":10109}
+{"Name":"Octopus1","ID":6579}
+{"Name":"Reflex","ID":9202}
+{"Name":"Dream Chaser","ID":9559}
+{"Name":"Heart n Soul","ID":10915}
+{"Name":"Lucky7","ID":8588}
+{"Name":"XD","ID":9209}
+{"Name":"DETONA","ID":8902}
+{"Name":"MASSIVEimpact","ID":9784}
+{"Name":"Variance","ID":9917}
+{"Name":"Case","ID":10894}
+{"Name":"Ben's Anime Team","ID":7612}
+{"Name":"topnotcheu","ID":9555}
+{"Name":"Invictus","ID":7966}
+{"Name":"NAVI Junior","ID":10371}
+{"Name":"plan-B fe","ID":9987}
+{"Name":"doktoRs","ID":9133}
+{"Name":"Tempo Storm","ID":6118}
+{"Name":"Titanz","ID":10554}
+{"Name":"Elites","ID":10725}
+{"Name":"dizLown","ID":7242}
+{"Name":"call it luck","ID":10541}
+{"Name":"Nemiga","ID":7969}
+{"Name":"MBAPPEEK","ID":10848}
+{"Name":"Generation of Miracles","ID":10736}
+{"Name":"RUTHLESS","ID":10212}
+{"Name":"RED Canids","ID":7176}
+{"Name":"HERCEGNOVI","ID":10855}
+{"Name":"MALCO","ID":8799}
+{"Name":"Panda","ID":9872}
+{"Name":"Western Titans","ID":9956}
+{"Name":"Heroic","ID":7175}
+{"Name":"HARDNEJA","ID":9690}
+{"Name":"FeelsUnderAgeMan","ID":8741}
+{"Name":"Atmosphere","ID":8743}
+{"Name":"Asterion","ID":7299}
+{"Name":"Gambit","ID":6651}
+{"Name":"internazionale","ID":10442}
+{"Name":"Boomies Money Crew","ID":9081}
+{"Name":"ex-Wild","ID":9370}
+{"Name":"Misfits","ID":7557}
+{"Name":"SaudiCom","ID":8830}
+{"Name":"NoChance","ID":9722}
+{"Name":"The Quest","ID":9785}
+{"Name":"Lucid Dream","ID":8680}
+{"Name":"Signature","ID":6774}
+{"Name":"Free Transfer","ID":6068}
+{"Name":"eXtatus","ID":6745}
+{"Name":"Dignitas","ID":5422}
+{"Name":"BLINK","ID":10697}
+{"Name":"Moscow CreepZ","ID":10189}
+{"Name":"Surge","ID":8833}
+{"Name":"Keyd","ID":6033}
+{"Name":"Sweden fe","ID":8870}
+{"Name":"KoN Sweden","ID":6418}
+{"Name":"Throw Potential","ID":9020}
+{"Name":"Under 21","ID":10650}
+{"Name":"Guatemala","ID":7096}
+{"Name":"HAVU","ID":7865}
+{"Name":"x6tence Galaxy","ID":9481}
+{"Name":"Sampi","ID":10695}
+{"Name":"Ignite","ID":6019}
+{"Name":"JOGANET","ID":9152}
+{"Name":"Trust","ID":8934}
+{"Name":"Secret Geniuses Club","ID":9259}
+{"Name":"F1-racecar-PEEK","ID":8602}
+{"Name":"Warthox","ID":10098}
+{"Name":"Scratch","ID":9158}
+{"Name":"Team Skadoodle","ID":9967}
+{"Name":"ZIGMA","ID":10675}
+{"Name":"OutLawZ","ID":10510}
+{"Name":"sAw","ID":10567}
+{"Name":"FURIA Academy","ID":8885}
+{"Name":"Squared","ID":7669}
+{"Name":"AVANT","ID":5293}
+{"Name":"Breakaway","ID":9484}
+{"Name":"In The Lab","ID":10662}
+{"Name":"x-kom","ID":8846}
+{"Name":"mystic","ID":9070}
+{"Name":"frequency","ID":7202}
+{"Name":"PEY","ID":9290}
+{"Name":"Ascent","ID":10059}
+{"Name":"Las Vegas MiniGunners","ID":9450}
+{"Name":"Rooster","ID":9881}
+{"Name":"juicey","ID":9653}
+{"Name":"RivaL","ID":6869}
+{"Name":"Movistar Riders","ID":7718}
+{"Name":"Stay Frosty","ID":9717}
+{"Name":"Party Astronauts","ID":8038}
+{"Name":"Mythic","ID":5479}
+{"Name":"TDR","ID":9491}
+{"Name":"Eimi Fukada FC","ID":10660}
+{"Name":"FrenchFrogs","ID":10035}
+{"Name":"Vex","ID":9186}
+{"Name":"North Academy","ID":7713}
+{"Name":"Ex-Rejected","ID":9153}
+{"Name":"NET-FLX","ID":10351}
+{"Name":"Aimhaus","ID":9199}
+{"Name":"GamerLegion","ID":9928}
+{"Name":"Tyrant","ID":9054}
+{"Name":"Universe","ID":7442}
+{"Name":"Alpha Red","ID":8848}
+{"Name":"flowskola","ID":10891}
+{"Name":"Ghost Academy","ID":8502}
+{"Name":"W7M","ID":8574}
+{"Name":"VG.Flash","ID":9037}
+{"Name":"eZaF","ID":8891}
+{"Name":"River Plate","ID":10786}
+{"Name":"piratesports","ID":10174}
+{"Name":"Nordavind","ID":8769}
+{"Name":"YouCorn","ID":8774}
+{"Name":"HEADSHOTBG","ID":4690}
+{"Name":"nonamer5","ID":10054}
+{"Name":"BENELUX5","ID":10795}
+{"Name":"kaban","ID":10429}
+{"Name":"nxl","ID":5258}
+{"Name":"The Mad Lads","ID":9500}
+{"Name":"Yalla","ID":8280}
+{"Name":"merry","ID":8725}
+{"Name":"NASR","ID":8211}
+{"Name":"HOLLYWOOD","ID":8847}
+{"Name":"3DMAX","ID":4914}
+{"Name":"Gamezone","ID":9610}
+{"Name":"Levitate","ID":10744}
+{"Name":"Adaptation","ID":5873}
+{"Name":"Sons of Scoots","ID":10131}
+{"Name":"Rebel","ID":10698}
+{"Name":"ARCY","ID":10494}
+{"Name":"Gaming Hub","ID":10288}
+{"Name":"ex-3DMAX","ID":9896}
+{"Name":"Valhalla","ID":10939}
+{"Name":"abv","ID":8794}
+{"Name":"NAVI Youth","ID":10918}
+{"Name":"Royal","ID":9607}
+{"Name":"Monopol","ID":9720}
+{"Name":"FFAmix","ID":10050}
+{"Name":"Limitless","ID":8441}
+{"Name":"Hungary","ID":5058}
+{"Name":"AllTheRage","ID":6595}
+{"Name":"a114u","ID":8838}
+{"Name":"Poutine Warriors","ID":9519}
+{"Name":"N1ceTry","ID":10231}
+{"Name":"FOTW","ID":10126}
+{"Name":"OneThree","ID":10022}
+{"Name":"FaMiLiA FaCiN","ID":9267}
+{"Name":"FASTLOSE","ID":9754}
+{"Name":"ROG fl0m","ID":7538}
+{"Name":"Monolith fe","ID":9985}
+{"Name":"Shot","ID":9843}
+{"Name":"ECL","ID":9753}
+{"Name":"AllTheStars","ID":9089}
+{"Name":"Umumba","ID":10398}
+{"Name":"Illuminar","ID":8813}
+{"Name":"naegt 2.0","ID":8214}
+{"Name":"Wololos","ID":7080}
+{"Name":"Dogs of War","ID":9716}
+{"Name":"Rejected","ID":6800}
+{"Name":"l4nd0dg3","ID":8798}
+{"Name":"EZ4ME","ID":10297}
+{"Name":"E-RIVALS","ID":10349}
+{"Name":"Phoenix","ID":10420}
+{"Name":"IPET","ID":9869}
+{"Name":"Avalanche","ID":8751}
+{"Name":"University of Houston","ID":9814}
+{"Name":"ch114u","ID":9119}
+{"Name":"Endpoint","ID":7234}
+{"Name":"Let's Quit","ID":10414}
+{"Name":"MishMish","ID":10065}
+{"Name":"Entity","ID":7348}
+{"Name":"Swole Identity","ID":10625}
+{"Name":"Isurus","ID":7653}
+{"Name":"Knights","ID":8801}
+{"Name":"Gen.G","ID":10514}
+{"Name":"OESU","ID":9940}
+{"Name":"Warriors","ID":10154}
+{"Name":"maslomaslo","ID":10560}
+{"Name":"tomorrow will be better","ID":9567}
+{"Name":"Balderisnor","ID":9972}
+{"Name":"Divine","ID":10302}
 {"Name":"Depth","ID":10331}
+{"Name":"Infinity","ID":9963}
+{"Name":"Mixich","ID":10958}
+{"Name":"LAMIF","ID":9150}
+{"Name":"lightwork","ID":9665}
+{"Name":"Japaleno","ID":7144}
+{"Name":"Absolute","ID":7581}
+{"Name":"Test Takers","ID":9400}
+{"Name":"Red Instinct","ID":6368}
+{"Name":"Evilvice","ID":8366}
+{"Name":"Lyngby Vikings","ID":8963}
+{"Name":"pride","ID":10950}
+{"Name":"No Tenemos Nada","ID":6557}
+{"Name":"AGO","ID":8068}
+{"Name":"1WIN","ID":10621}
+{"Name":"Legends","ID":10530}
+{"Name":"icsu","ID":5792}
+{"Name":"NOTBAD","ID":7610}
+{"Name":"FATE","ID":9863}
+{"Name":"zdarova","ID":10468}
+{"Name":"Finest","ID":10276}
+{"Name":"Infamous","ID":9379}
+{"Name":"DenDD","ID":6407}
+{"Name":"Reason","ID":5208}
+{"Name":"NEO Blue","ID":9039}
+{"Name":"skipping school","ID":9547}
+{"Name":"ex-Fragsters","ID":9788}
+{"Name":"x1 Mob","ID":8832}
+{"Name":"roughtimes","ID":8081}
+{"Name":"Hyper4mance","ID":6590}
+{"Name":"FrostFire","ID":9032}
+{"Name":"NIP","ID":4411}
+{"Name":"Invictus Int","ID":10817}
+{"Name":"fightclub","ID":7823}
+{"Name":"EoN","ID":7917}
+{"Name":"Envy","ID":5991}
+{"Name":"ex-Polar Ace","ID":10759}
+{"Name":"DeepDarkDanger","ID":8462}
+{"Name":"R5","ID":6183}
+{"Name":"Worst Enemy","ID":10913}
+{"Name":"EPG","ID":7489}
+{"Name":"Uruguay","ID":6209}
+{"Name":"Next Generation","ID":8282}
+{"Name":"SBC","ID":10373}
+{"Name":"OpTic","ID":6615}
+{"Name":"4ucToHano6egky","ID":9524}
+{"Name":"MaG PuneF1ve","ID":9354}
+{"Name":"Virtus.pro","ID":5378}
+{"Name":"Easy 5","ID":10308}
+{"Name":"InControl","ID":7720}
+{"Name":"Arena Bulls","ID":9539}
+{"Name":"supadupafly","ID":8784}
+{"Name":"BTRG.IMBA","ID":9545}
+{"Name":"BUNNIES","ID":9021}
+{"Name":"KoN Denmark","ID":6417}
+{"Name":"Russia","ID":5138}
+{"Name":"Masters of Panic","ID":10172}
+{"Name":"Mad Wolves","ID":8450}
+{"Name":"Bigetron","ID":8627}
+{"Name":"Epsilon","ID":4688}
+{"Name":"CGH","ID":9426}
+{"Name":"greedisgood","ID":8875}
+{"Name":"EMASTERS","ID":8965}
+{"Name":"SKADE","ID":10386}
+{"Name":"Demolition Crew","ID":10593}
+{"Name":"ex-Wind and Rain","ID":9356}
+{"Name":"Zone","ID":9849}
+{"Name":"Domino","ID":10437}
+{"Name":"DeftFox fe","ID":10783}
+{"Name":"RRQ","ID":9234}
+{"Name":"KINGZZZ","ID":10344}
+{"Name":"OpTic India","ID":9167}
+{"Name":"Excelerate","ID":9306}
+{"Name":"fnatic","ID":4991}
+{"Name":"Disabled","ID":9832}
+{"Name":"WORTEX","ID":7694}
+{"Name":"Singularity Academy","ID":8954}
+{"Name":"UYA","ID":7716}
+{"Name":"TRS","ID":6000}
+{"Name":"OKSUCC","ID":9719}
+{"Name":"Spotnet","ID":7728}
+{"Name":"Mask Off","ID":7879}
+{"Name":"Real Betis SA","ID":10740}
+{"Name":"High Coast","ID":10611}
+{"Name":"SCARZ Absolute","ID":7962}
+{"Name":"Springroll","ID":10884}
+{"Name":"Atlants","ID":9120}
+{"Name":"NOVA","ID":7787}
+{"Name":"Andes","ID":8825}
+{"Name":"orzeszki123","ID":8810}
+{"Name":"Masked","ID":9454}
+{"Name":"JMT","ID":10754}
+{"Name":"Arial Arise","ID":8879}
+{"Name":"Rise and Grind","ID":8887}
+{"Name":"NASCAR Dads","ID":10273}
+{"Name":"ex-SMASH","ID":10748}
+{"Name":"x6tence","ID":4468}
+{"Name":"PLINK","ID":9193}
+{"Name":"Bring It On","ID":9744}
+{"Name":"FULL SEND","ID":9842}
+{"Name":"FaZe","ID":6667}
+{"Name":"selectah","ID":10788}
+{"Name":"OG","ID":10411}
+{"Name":"Roar","ID":9125}
+{"Name":"pullerZ","ID":10138}
+{"Name":"Medieval","ID":10654}
+{"Name":"Sublife","ID":8568}
+{"Name":"HEY","ID":8723}
+{"Name":"INTZ fe","ID":10633}
+{"Name":"Ghost","ID":7801}
+{"Name":"nambla","ID":10217}
+{"Name":"yodelin","ID":9041}
+{"Name":"Weirdos","ID":9075}
+{"Name":"Giants","ID":4949}
+{"Name":"Meta","ID":10793}
+{"Name":"Young Ninjas","ID":10960}
+{"Name":"Empire","ID":10548}
+{"Name":"Anxiety","ID":9019}
+{"Name":"eL'quvet","ID":7427}
+{"Name":"s0mkillers","ID":10147}
+{"Name":"OnlineBOTS","ID":5572}
+{"Name":"KlikTech","ID":8127}
+{"Name":"SMASH","ID":10315}
+{"Name":"PEEKERS","ID":9796}
+{"Name":"Reform","ID":9279}
+{"Name":"kalajarnot","ID":9513}
+{"Name":"SIN","ID":8321}
+{"Name":"lol123","ID":8796}
+{"Name":"ex-eRa","ID":8874}
+{"Name":"Ninjas in Vandamkes","ID":8757}
+{"Name":"Energy","ID":5153}
+{"Name":"Lethal Divide","ID":10770}
+{"Name":"Phoenix","ID":10167}
+{"Name":"MINLATE","ID":6626}
+{"Name":"Mantegos","ID":9419}
+{"Name":"MiTH.Maple","ID":10419}
+{"Name":"Holo","ID":9824}
+{"Name":"Budapest Five","ID":9802}
+{"Name":"EURONICS","ID":6343}
+{"Name":"Hard4U","ID":10573}
+{"Name":"Whatever It Takes","ID":8999}
+{"Name":"Lynn Vision","ID":8840}
+{"Name":"Winstrike","ID":9183}
+{"Name":"Kansas City Pioneers","ID":10240}
+{"Name":"FOREVER 21","ID":10151}
+{"Name":"RUNUP","ID":9118}
+{"Name":"madlikewizards","ID":9275}
+{"Name":"BG-MIX","ID":10449}
+{"Name":"Maple","ID":8220}
+{"Name":"Havan Liberty","ID":10815}
+{"Name":"K23","ID":7244}
+{"Name":"MAJESTY","ID":9673}
+{"Name":"Veloz","ID":10916}
+{"Name":"Sinisters","ID":9166}
+{"Name":"Malvinas","ID":8121}
+{"Name":"Texas","ID":9385}
+{"Name":"Red Wolf","ID":8497}
+{"Name":"100PG","ID":10525}
+{"Name":"Recon 5","ID":10463}
+{"Name":"RUFUS","ID":10267}
+{"Name":"Squirtle Squad","ID":9053}
+{"Name":"Arte et Marte","ID":7843}
+{"Name":"Will to Win","ID":9242}
+{"Name":"Absolute Legends","ID":4488}
+{"Name":"NewliFe","ID":8859}
+{"Name":"BLUEJAYS","ID":5347}
+{"Name":"Copenhagen Flames","ID":7461}
+{"Name":"Wisla Krakow","ID":10426}
+{"Name":"iSellPower","ID":10555}
+{"Name":"h00liGaNz","ID":6356}
+{"Name":"fbg","ID":4962}
+{"Name":"BASE's Money Crew","ID":10016}
+{"Name":"Quantum Bellator Fire","ID":7367}
+{"Name":"Owned","ID":10521}
+{"Name":"AA","ID":10676}
+{"Name":"SJ","ID":8504}
+{"Name":"20matar","ID":9115}
+{"Name":"PENSIONERS+2","ID":9989}
+{"Name":"AGN","ID":10089}
+{"Name":"Recca","ID":7344}
+{"Name":"ATMOS","ID":9924}
+{"Name":"Handlebar","ID":9713}
+{"Name":"Bravado","ID":5158}
+{"Name":"Supremacy","ID":10330}
+{"Name":"Syman","ID":8772}
+{"Name":"Boca Boston","ID":10733}
 {"Name":"Furious","ID":6799}
+{"Name":"Brute","ID":9139}
+{"Name":"rewound","ID":10041}
+{"Name":"KUURA","ID":9729}
+{"Name":"DZVER","ID":8783}
+{"Name":"GNSL","ID":9983}
+{"Name":"FWRD","ID":10738}
+{"Name":"STREAMLINE","ID":5869}
+{"Name":"LowLandLions","ID":4579}
+{"Name":"Darkside","ID":10397}
+{"Name":"FlipSid3","ID":5988}
+{"Name":"de_aztec","ID":9668}
+{"Name":"Legion","ID":10287}
+{"Name":"MAD Lions","ID":8362}
+{"Name":"2K","ID":8781}
+{"Name":"Ronin Horde","ID":9458}
+{"Name":"EHOME","ID":7024}
+{"Name":"Mazaalai","ID":10051}
+{"Name":"Estral","ID":10773}
+{"Name":"Lol Yeah","ID":8160}
+{"Name":"Riotous Academy","ID":8736}
+{"Name":"PRIDE","ID":6896}
+{"Name":"Iceberg","ID":8398}
+{"Name":"JUNCK","ID":9951}
+{"Name":"Goliath","ID":8193}
+{"Name":"Big 5","ID":8111}
+{"Name":"SGINDOMIX","ID":10620}
+{"Name":"New England Whalers","ID":9888}
+{"Name":"ex-Riotous Academy","ID":8851}
+{"Name":"1ADL","ID":10912}
+{"Name":"ex-Iceberg","ID":8845}
+{"Name":"ex-Paradox","ID":9848}
+{"Name":"FATE","ID":8827}
+{"Name":"Se7en","ID":10097}
+{"Name":"PUPstars","ID":9324}
+{"Name":"passions","ID":7124}
+{"Name":"Born Again Hard","ID":9201}
+{"Name":"TheDice","ID":9949}
+{"Name":"Cult","ID":10972}
+{"Name":"HEY","ID":9127}
+{"Name":"KOPUNIO","ID":8645}
+{"Name":"Rysix","ID":10632}
+{"Name":"Jade","ID":9870}
+{"Name":"GamePub","ID":5273}
+{"Name":"EVOLVE","ID":9494}
+{"Name":"Bust Down","ID":10112}
+{"Name":"Bull","ID":9203}
+{"Name":"Yoink","ID":9912}
+{"Name":"OFFSET","ID":8515}
+{"Name":"Resiliency","ID":9303}
+{"Name":"LeftOut","ID":9211}
+{"Name":"Heretics","ID":8346}
+{"Name":"Veteran","ID":9962}
+{"Name":"ConfigStarz","ID":7873}
+{"Name":"Eclipse","ID":7892}
+{"Name":"BuzzKill","ID":10033}
+{"Name":"repskops","ID":9820}
+{"Name":"Akopalipsa","ID":9679}
+{"Name":"egern","ID":9952}
+{"Name":"nebuloza","ID":10511}
+{"Name":"GAMERZ RED","ID":7931}
+{"Name":"lmfao","ID":9504}
+{"Name":"Ukraine","ID":5144}
+{"Name":"Vaevictis","ID":9919}
+{"Name":"Limitless","ID":8283}
+{"Name":"Polar Ace South","ID":10642}
+{"Name":"Farming Simulator","ID":10910}
+{"Name":"Nexus","ID":7187}
+{"Name":"Turma do Pagode","ID":9686}
+{"Name":"Aug Squad","ID":9825}
+{"Name":"tomorrow","ID":7000}
+{"Name":"Ange's Big Toe","ID":9387}
+{"Name":"Jordan's Money Crew","ID":9358}
+{"Name":"PACT","ID":8248}
+{"Name":"SYF","ID":5607}
+{"Name":"Wygers AR","ID":10785}
+{"Name":"Swedish Canadians","ID":10700}
+{"Name":"GamerS1337","ID":10762}
+{"Name":"Magicians","ID":8033}
+{"Name":"Game Fist","ID":10127}
+{"Name":"ex-Virtus.pro","ID":10549}
+{"Name":"C4","ID":8051}
+{"Name":"Flow","ID":9427}
+{"Name":"GGPR","ID":9974}
+{"Name":"Altima","ID":9877}
+{"Name":"FTW","ID":7379}
+{"Name":"Akatsuki","ID":10467}
+{"Name":"GoldenGitte","ID":8716}
+{"Name":"Astro","ID":10047}
+{"Name":"StylDunow","ID":10983}
+{"Name":"LeetPro","ID":8732}
+{"Name":"UnkerJohn","ID":9885}
+{"Name":"Agressive","ID":10191}
+{"Name":"JustPassingBy","ID":6591}
+{"Name":"Oceanus","ID":10282}
+{"Name":"Old Guys Club","ID":9523}
+{"Name":"Espada","ID":8669}
+{"Name":"grazhtas","ID":10887}
+{"Name":"ROAR","ID":8587}
+{"Name":"iNTACT","ID":9176}
+{"Name":"KoN Finland","ID":6420}
+{"Name":"Czeska wladza","ID":10145}
+{"Name":"2BYL9","ID":10475}
+{"Name":"One More Time","ID":10270}
+{"Name":"Avengers","ID":10586}
+{"Name":"Panthers","ID":4981}
+{"Name":"pro100","ID":7898}
+{"Name":"Impact","ID":8876}
+{"Name":"ex-iNTACT","ID":10565}
+{"Name":"MELBET","ID":10412}
+{"Name":"WeOnlySnusSiber1a","ID":10142}
+{"Name":"Ambush fe","ID":8975}
+{"Name":"k1ck","ID":4469}
+{"Name":"HASZTASZ","ID":10166}
+{"Name":"Juggernauts","ID":10509}
+{"Name":"Chiefs Academy","ID":9247}
+{"Name":"Vega Squadron","ID":6094}
+{"Name":"paryvodnikov","ID":10262}
+{"Name":"TEAMSWAGYOLO","ID":5338}
+{"Name":"NIRVANA","ID":9544}
+{"Name":"ENRAGE","ID":6739}
+{"Name":"Rising Note","ID":9758}
+{"Name":"Project X","ID":10473}
+{"Name":"Resurgence","ID":8892}
+{"Name":"Wizards","ID":4591}
+{"Name":"Lowkey","ID":10451}
+{"Name":"e-Galo","ID":10826}
+{"Name":"Sydney Saints","ID":9067}
+{"Name":"FCDB","ID":9490}
+{"Name":"NOORG","ID":10551}
+{"Name":"VCU","ID":10015}
+{"Name":"Darkhorse","ID":10310}
+{"Name":"ALTERNATE aTTaX","ID":4501}
+{"Name":"OCEAN's Fan Club","ID":10199}
+{"Name":"MAC-51","ID":10392}
+{"Name":"mixtim","ID":8839}
+{"Name":"XI","ID":8947}
+{"Name":"Forty Six and 2","ID":9074}
+{"Name":"Radix","ID":7748}
+{"Name":"adwokacik","ID":8911}
+{"Name":"Kepsilon","ID":9097}
+{"Name":"ex-BLUEJAYS","ID":10453}
+{"Name":"Divine Vendetta","ID":10396}
+{"Name":"NALANE","ID":10384}
+{"Name":"Duck Nutz","ID":9564}
+{"Name":"Without Warning","ID":8582}
+{"Name":"ARG","ID":10742}
+{"Name":"Rogue","ID":7157}
+{"Name":"Ignite","ID":8706}
+{"Name":"Stifmeister","ID":8639}
+{"Name":"TzatzikiKlubben","ID":6497}
+{"Name":"Say No More","ID":8790}
+{"Name":"Wubbalubbadubdub","ID":10648}
+{"Name":"MeAndTheBoys","ID":10582}
+{"Name":"GameAgents","ID":6652}
+{"Name":"Lin4evateli","ID":8542}
+{"Name":"Royal Bandits","ID":8263}
+{"Name":"ROG HenryG","ID":9790}
+{"Name":"VERTEX","ID":10672}
+{"Name":"Paquetá","ID":10669}
+{"Name":"ex-Recon 5","ID":10792}
+{"Name":"The Foxes","ID":9578}
+{"Name":"weneeddollars","ID":8890}
+{"Name":"EC Kyiv","ID":10888}
+{"Name":"mCon","ID":6593}
+{"Name":"TEAMMATE","ID":8894}
+{"Name":"KoVi","ID":8842}
+{"Name":"Ground Zero","ID":8536}
+{"Name":"Orgles5","ID":9553}
+{"Name":"Hard Legion","ID":10421}
+{"Name":"Athletico","ID":5680}
+{"Name":"Berzerk","ID":5121}
+{"Name":"EsportsAdviser","ID":9900}
+{"Name":"Lemondogs","ID":4413}
+{"Name":"punktexe","ID":9381}
+{"Name":"bluuuuud","ID":9108}
+{"Name":"Kinship","ID":10157}
+{"Name":"Coscu Army","ID":8871}
+{"Name":"Latingamers","ID":10132}
+{"Name":"lvlUP","ID":7711}
+{"Name":"Real Betis","ID":10734}
+{"Name":"seadoggs","ID":8435}
+{"Name":"9INE","ID":10278}
+{"Name":"Respawn Ninja Black","ID":9359}
+{"Name":"SEAL","ID":8361}
+{"Name":"Collateral","ID":10134}
+{"Name":"Cemoxic","ID":8993}
+{"Name":"FORTHEBOYS","ID":8809}
+{"Name":"ex-Wisła Płock","ID":10182}
+{"Name":"RSC19","ID":10602}
+{"Name":"PENTA","ID":5395}
+{"Name":"Kobruh","ID":9873}
+{"Name":"Tommy And Friends","ID":9907}
+{"Name":"ex-SEAL","ID":8869}
+{"Name":"gothboiclique","ID":9739}
+{"Name":"HD","ID":8717}
+{"Name":"LOG","ID":10030}
+{"Name":"EYES ON U","ID":4689}
+{"Name":"Lilmix","ID":9735}
+{"Name":"Maknitude","ID":10076}
+{"Name":"Summit","ID":9295}
+{"Name":"Bravos","ID":10605}
+{"Name":"CPAVKY","ID":9040}
+{"Name":"AdskiyRazgon","ID":9630}
+{"Name":"Madvillainy","ID":10229}
+{"Name":"SinnerS","ID":8583}
+{"Name":"Monstars","ID":7841}
+{"Name":"ex-Warriors International","ID":10827}
+{"Name":"Ancients","ID":10203}
+{"Name":"Rude","ID":9573}
+{"Name":"we dont give a hoot","ID":9916}
+{"Name":"VenatoreS","ID":7253}
+{"Name":"FAM","ID":9495}
+{"Name":"Sangal","ID":10333}
+{"Name":"Moraira","ID":9883}
+{"Name":"PlotniuVodniu","ID":10265}
+{"Name":"38arbel97ra2","ID":9206}
+{"Name":"eSuba","ID":5412}
+{"Name":"S2N","ID":9743}
+{"Name":"DNMK","ID":10857}
+{"Name":"ex-Genuine","ID":10505}
+{"Name":"guccixD","ID":9649}
+{"Name":"New4","ID":4865}
+{"Name":"Youngsters","ID":10044}
+{"Name":"fakemaquinas","ID":10636}
+{"Name":"Venkonas","ID":9893}
+{"Name":"16yotalents","ID":7734}
+{"Name":"Genuine","ID":9747}
+{"Name":"QCCLAN","ID":9343}
+{"Name":"DarkSpawn","ID":9984}
+{"Name":"Sinister5","ID":8730}
+{"Name":"timbermen","ID":10464}
+{"Name":"Moscow Five Academy","ID":10627}
+{"Name":"CyberBullies Reborn","ID":9084}
+{"Name":"Camel Riders","ID":6589}
+{"Name":"5balls","ID":8589}
+{"Name":"Saints","ID":10934}
+{"Name":"OFFSET.OMNI","ID":9249}
+{"Name":"AOES","ID":9936}
+{"Name":"Sky","ID":9469}
+{"Name":"Team Killz","ID":8750}
+{"Name":"SODMG","ID":9850}
+{"Name":"COMIX","ID":9651}
+{"Name":"Eco Fraggers Anonymous","ID":10178}
+{"Name":"London","ID":9674}
+{"Name":"SponsorUS","ID":10492}
+{"Name":"Holding W","ID":10536}
+{"Name":"Valorix","ID":10434}
+{"Name":"Revolt","ID":10596}
+{"Name":"Fanta","ID":10010}
+{"Name":"Cyclone","ID":8857}
+{"Name":"Mock-it","ID":9865}
+{"Name":"NOCCO","ID":10751}
+{"Name":"Söderberg &amp; Partners","ID":9980}
+{"Name":"Thunder Logic","ID":9615}
+{"Name":"Duffle Bag Men","ID":9596}
+{"Name":"Orgless fe","ID":7670}
+{"Name":"OneWay","ID":10129}
+{"Name":"LDLC","ID":4674}
+{"Name":"Pongileez","ID":9173}
+{"Name":"ARYO","ID":7872}
+{"Name":"Paradox","ID":7983}
+{"Name":"smh my head","ID":10200}
+{"Name":"headpoppers","ID":8886}
+{"Name":"Reason","ID":4822}
+{"Name":"ex-Splyce","ID":9060}
+{"Name":"PANTHERS","ID":6693}
+{"Name":"Boom","ID":9051}
+{"Name":"small meats","ID":9390}
+{"Name":"Splyce","ID":6301}
+{"Name":"MC","ID":8738}
+{"Name":"Vulkanbet","ID":9982}
+{"Name":"RamaL","ID":10532}
+{"Name":"Delusion","ID":8556}
+{"Name":"unknown","ID":9214}
+{"Name":"The Fundamentals","ID":8084}
+{"Name":"OGN","ID":9487}
+{"Name":"Third Impact","ID":10469}
+{"Name":"Duck Nutz","ID":9584}
+{"Name":"SPLY","ID":8782}
+{"Name":"CLEANTmix","ID":10476}
+{"Name":"Turkey5","ID":10144}
+{"Name":"mens","ID":10739}
+{"Name":"Turtle Squad","ID":9064}
+{"Name":"TRUCKERS WITH ATTITUDE","ID":10713}
+{"Name":"Monarchs","ID":9899}
+{"Name":"IMPRESS","ID":8756}
+{"Name":"be the way","ID":10777}
+{"Name":"Stormborns","ID":7721}
+{"Name":"Blackwoodproductions","ID":7783}
+{"Name":"Excellency","ID":10727}
+{"Name":"Tricked","ID":4602}
+{"Name":"Lese","ID":10832}
+{"Name":"Team NA","ID":10215}
+{"Name":"Kingpins","ID":8537}
+{"Name":"attackiereN","ID":7946}
+{"Name":"Redemption POA","ID":9902}
+{"Name":"Wings","ID":10165}
+{"Name":"Big Frames","ID":9229}
+{"Name":"AVEZ","ID":9797}
+{"Name":"LaZe","ID":10300}
+{"Name":"MITOS","ID":9687}
+{"Name":"Neolution Lelix","ID":9090}
+{"Name":"Viva Algeria","ID":6586}
+{"Name":"Mineros","ID":10774}
+{"Name":"Sharkgaming","ID":6078}
+{"Name":"The Entourage","ID":8623}
+{"Name":"TRIDENT","ID":5290}
+{"Name":"DreamEaters","ID":8305}
+{"Name":"Dark Sided","ID":7212}
+{"Name":"ex-Velocity","ID":9485}
+{"Name":"ex-Warriors","ID":10822}
+{"Name":"Portal","ID":8682}
+{"Name":"Anonymous","ID":7727}
+{"Name":"AURA","ID":10940}
+{"Name":"DivisionX","ID":10338}
+{"Name":"Russian Canadians","ID":10875}
+{"Name":"Sixth Gear","ID":10836}
+{"Name":"water gamers","ID":10576}
+{"Name":"KR0NIKZ","ID":8780}
+{"Name":"Daryl's make a wish","ID":10542}
+{"Name":"Epsilon","ID":4456}
+{"Name":"NYYRIKKI","ID":8485}
+{"Name":"Baltic Elite","ID":8624}
+{"Name":"lotb","ID":9736}
+{"Name":"Ferrari Peek","ID":9620}
+{"Name":"ETHEREAL","ID":9277}
+{"Name":"PUGSTAR5","ID":9155}
+{"Name":"Evidence","ID":9803}
+{"Name":"Clout Chasers","ID":9335}
+{"Name":"LPSP","ID":8465}
+{"Name":"7PM fe","ID":10168}
+{"Name":"Ambush","ID":7674}
+{"Name":"C_gByX_Hor","ID":10233}
+{"Name":"Mystical","ID":7550}
+{"Name":"TimeChasers","ID":10218}
+{"Name":"Sparta","ID":9483}
+{"Name":"evicted","ID":10023}
+{"Name":"DEEZ NUTS","ID":6570}
+{"Name":"ALPENKINGZ","ID":8714}
+{"Name":"TisMixGods","ID":9007}
+{"Name":"Asiamix","ID":9238}
+{"Name":"Preparation","ID":6724}
+{"Name":"Defying Gravity","ID":7190}
+{"Name":"PreciousGenius","ID":8994}
+{"Name":"dAT","ID":4592}
+{"Name":"ARES","ID":8242}
+{"Name":"Final Feature","ID":8085}
+{"Name":"KAV0","ID":9991}
+{"Name":"Enyoy","ID":8721}
+{"Name":"White Rabbit","ID":6765}
+{"Name":"Santos","ID":9213}
+{"Name":"ex-RSG","ID":9641}
+{"Name":"ShotCallers","ID":9208}
+{"Name":"QQ","ID":9997}
+{"Name":"QtabENTER","ID":10118}
+{"Name":"XCN","ID":8626}
+{"Name":"Alter Ego","ID":9958}
+{"Name":"jonnyyy","ID":10198}
+{"Name":"BL4ZE","ID":10226}
+{"Name":"SUB.STANCE","ID":9642}
+{"Name":":thinking:","ID":10298}
+{"Name":"LeviAthaN","ID":8746}
+{"Name":"absolute mad lads","ID":10111}
+{"Name":"Made in Canil","ID":9670}
+{"Name":"Made in Canil","ID":9723}
+{"Name":"kombucha","ID":10209}
+{"Name":"clockwork","ID":10140}
+{"Name":"Warriors International","ID":10719}
+{"Name":"eRa","ID":8608}
+{"Name":"ex-Circa","ID":8901}
+{"Name":"JAMBON","ID":10922}
+{"Name":"POGGERS","ID":9864}
+{"Name":"Untagged","ID":9022}
+{"Name":"Salamander","ID":9939}
+{"Name":"FURY","ID":10299}
+{"Name":"balenciaga","ID":10364}
+{"Name":"Hentai Hooligans","ID":9693}
+{"Name":"spray'n'pray","ID":7264}
+{"Name":"ROG IzakOOO","ID":7540}
+{"Name":"Prima","ID":10614}
+{"Name":"ex-ETHEREAL","ID":10929}
+{"Name":"eParadise Angels","ID":8978}
+{"Name":"EX5","ID":10211}
+{"Name":"FNS Had a Kit","ID":9403}
+{"Name":"Astral Influence","ID":7970}
+{"Name":"wrAth","ID":10294}
+{"Name":"Unique","ID":9287}
+{"Name":"YamatO","ID":9480}
+{"Name":"eNergy Academy","ID":9286}
+{"Name":"Niknexus","ID":9533}
+{"Name":"Just Swing","ID":10146}
+{"Name":"Monky See Monky Do","ID":10266}
+{"Name":"GSG9","ID":10907}
+{"Name":"UMULUNGI","ID":9194}
+{"Name":"Rapid","ID":9174}
+{"Name":"eXploit","ID":10192}
+{"Name":"Rensga","ID":10645}
+{"Name":"Boomers","ID":10820}
+{"Name":"ZeGg","ID":8259}
+{"Name":"Xiphos","ID":9625}
+{"Name":"Xiphos ZeGg","ID":10305}
+{"Name":"UCF Knights","ID":10537}
+{"Name":"Bogatiri","ID":10564}
+{"Name":"raregods","ID":10216}
+{"Name":"TYLOO fe","ID":8976}
+{"Name":"Inside","ID":7055}
+{"Name":"Anime Cheats","ID":10242}
+{"Name":"Kaleb's Cash Crew","ID":8856}
+{"Name":"DETONA Pound","ID":10716}
+{"Name":"Ace High","ID":9344}
+{"Name":"atputies","ID":10930}
+{"Name":"GANGNAM_STYL","ID":9948}
+{"Name":"blood, sweat, and tears","ID":10692}
+{"Name":"That's what she said","ID":10780}
+{"Name":"ClownS","ID":10619}
+{"Name":"Unity","ID":9891}
+{"Name":"TheMongolz","ID":6248}
+{"Name":"NM","ID":9474}
+{"Name":"Blu","ID":10314}
+{"Name":"2019","ID":9698}
+{"Name":"Gameworks","ID":9175}
+{"Name":"WINside","ID":9055}
+{"Name":"Area51","ID":10292}
+{"Name":"Minttu","ID":5298}
+{"Name":"UnderPressure","ID":9603}
+{"Name":"Hot Ass","ID":9663}
+{"Name":"XDDD","ID":10324}
+{"Name":"TV stars","ID":9554}
+{"Name":"hellslayerz","ID":9096}
+{"Name":"Polar Ace","ID":9497}
+{"Name":"Lose","ID":9512}
+{"Name":"MIKSTURA","ID":9612}
+{"Name":"False Gods","ID":9047}
+{"Name":"Revelation","ID":9701}
+{"Name":"EnVyUs Academy","ID":7856}
+{"Name":"Play4Lan","ID":9337}
+{"Name":"zxcv","ID":8323}
+{"Name":"Front","ID":10002}
+{"Name":"Genesis","ID":10613}
+{"Name":"TORI","ID":8070}
+{"Name":"Wildfire","ID":6903}
+{"Name":"Converge","ID":10088}
+{"Name":"OwmS","ID":9927}
+{"Name":"ERACOST","ID":8175}
+{"Name":"AGF","ID":8704}
+{"Name":"Mentality","ID":9187}
+{"Name":"PITS","ID":9265}
+{"Name":"Belgium","ID":5140}
+{"Name":"Reagan’s Money Crew","ID":10275}
+{"Name":"Smoke Criminals","ID":8369}
+{"Name":"Strings' Llama Pack","ID":10013}
+{"Name":"Exsto","ID":9492}
+{"Name":"Capri Sun","ID":10289}
+{"Name":"fproject","ID":9179}
+{"Name":"Global","ID":9921}
+{"Name":"HIGHWAY","ID":7654}
+{"Name":"HauntedFamily","ID":9696}
+{"Name":"DINQ","ID":9955}
+{"Name":"HEXAGONE","ID":7463}
+{"Name":"Revolte","ID":6495}
+{"Name":"MAESTRO","ID":7848}
+{"Name":"tradigt","ID":9192}
+{"Name":"Viperio","ID":9506}
+{"Name":"MAXISAUCISSE","ID":5260}
+{"Name":"2333","ID":10322}
+{"Name":"JiJieHao","ID":10245}
+{"Name":"Vikings","ID":8253}
+{"Name":"GameZone","ID":9757}
+{"Name":"STEP","ID":9981}
+{"Name":"MxB","ID":8510}
+{"Name":"QuestionMark","ID":9236}
+{"Name":"Unity","ID":7058}
+{"Name":"LiViD","ID":9392}
+{"Name":"SHIPACHI","ID":8404}
+{"Name":"Hooked","ID":8635}
+{"Name":"WAYE","ID":9073}
+{"Name":"Sons Of Lennart","ID":10504}
+{"Name":"PDHM","ID":10706}
+{"Name":"anime savants","ID":9273}
+{"Name":"Vexed","ID":8020}
+{"Name":"West Coast Fraggers","ID":9920}
+{"Name":"NotStoned","ID":9765}
+{"Name":"FiGURE05","ID":9270}
+{"Name":"top100","ID":9061}
+{"Name":"fakeDOSPRO","ID":9724}
+{"Name":"4 and a half men","ID":10655}
+{"Name":"HYDR","ID":9374}
+{"Name":"CeX","ID":6297}
+{"Name":"Devious ","ID":6193}
+{"Name":"ex-No Limits","ID":8899}
+{"Name":"Checkmate","ID":10796}
+{"Name":"University of Colorado Boulder","ID":9502}
+{"Name":"Z-Zombies","ID":10749}
+{"Name":"Odense","ID":8010}
+{"Name":"Millennium","ID":7148}
+{"Name":"Carnage","ID":8707}
+{"Name":"Tengri","ID":7145}
+{"Name":"HaBzz","ID":10652}
+{"Name":"notkicked","ID":9522}
+{"Name":"Vexed","ID":6375}
+{"Name":"Kings fe","ID":8553}
+{"Name":"Sylyx","ID":10917}
+{"Name":"NOREG","ID":8473}
+{"Name":"i sleep","ID":10664}
+{"Name":"Eclipse","ID":6987}
+{"Name":"LiNE5","ID":8904}
+{"Name":"MiSG","ID":10009}
+{"Name":"Orion","ID":8719}
+{"Name":"DESTRUCTORS","ID":9122}
+{"Name":"SPARX","ID":10966}
+{"Name":"RUNnGUN","ID":9856}
+{"Name":"frillkammare","ID":9009}
+{"Name":"ex-Athletico","ID":10113}
+{"Name":"Turku Evolution","ID":9604}
+{"Name":"IN.GAME","ID":10931}
+{"Name":"Saskatoon Warriors","ID":10587}
+{"Name":"Skin Ogres","ID":10566}
+{"Name":"Farm_ValutbI","ID":10457}
+{"Name":"Devious","ID":9307}
+{"Name":"Sadbots","ID":10034}
+{"Name":"private","ID":6433}
+{"Name":"Vault","ID":6366}
+{"Name":"Wygers","ID":10592}
+{"Name":"Random5","ID":9470}
+{"Name":"They Don't Know","ID":8284}
+{"Name":"Stacked Like Pancakes","ID":9000}
+{"Name":"TSG","ID":10860}
+{"Name":"Bring Me The Horizon","ID":9709}
+{"Name":"Rooster 2","ID":10835}
+{"Name":"Demise","ID":8698}
+{"Name":"Bushido Boyz","ID":7885}
+{"Name":"XFORCE","ID":9091}
+{"Name":"bootcampPARTY","ID":10195}
+{"Name":"Fighting 4 Freedom","ID":9880}
+{"Name":"ex-Underdogs","ID":9810}
+{"Name":"ZEROZONE","ID":10853}
+{"Name":"Reapers","ID":9910}
+{"Name":"DUSTY","ID":10125}
+{"Name":"Crystal Vision","ID":9069}
+{"Name":"Savage","ID":6988}
+{"Name":"SSD","ID":8764}
+{"Name":"DarkPassage","ID":7018}
+{"Name":"Justice","ID":10019}
+{"Name":"jmihmix","ID":10148}
+{"Name":"ETHEREAL","ID":10673}
+{"Name":"In Young Ren","ID":10561}
+{"Name":"No2B","ID":9552}
+{"Name":"Partyzanci","ID":10207}
+{"Name":"Fam143","ID":8815}
+{"Name":"SG.pro","ID":10105}
+{"Name":"The Tourists","ID":9773}
+{"Name":"Peeker's Advantage","ID":10092}
+{"Name":"ex-UP","ID":10668}
+{"Name":"Ferox","ID":10638}
+{"Name":"Freeman Lord","ID":10481}
+{"Name":"SuperOVD","ID":10499}
+{"Name":"Revoltz","ID":9163}
+{"Name":"deprEST","ID":9200}
+{"Name":"Infamous","ID":10578}
+{"Name":"XXX","ID":9244}
+{"Name":"GTZ Bulls","ID":9466}
+{"Name":"Rocketlauncher$","ID":10556}
+{"Name":"Pierogi","ID":10444}
+{"Name":"Really Old People","ID":9102}
+{"Name":"Stack B","ID":8154}
+{"Name":"Hysteria","ID":9003}
+{"Name":"NONAME","ID":10000}
+{"Name":"Prospects","ID":6792}
+{"Name":"Serac","ID":10682}
+{"Name":"Mineski","ID":6715}
+{"Name":"On Lance","ID":10186}
+{"Name":"Gorillaz Pride","ID":10665}
+{"Name":"24SJU","ID":10060}
+{"Name":"No Limits","ID":8822}
+{"Name":"RAIJIN","ID":10656}
+{"Name":"Bl1nK8","ID":9576}
+{"Name":"Brutalis","ID":9817}
+{"Name":"Sigma","ID":10372}
+{"Name":"Taboo","ID":8826}
+{"Name":"ttc","ID":5540}
+{"Name":"EveryBodyDance","ID":10626}
+{"Name":"Izako Boars","ID":7681}
+{"Name":"INTZ.Academy","ID":9684}
+{"Name":"Brave of Warriors","ID":6517}
+{"Name":"Runtime","ID":9793}
+{"Name":"Skullz","ID":10190}
+{"Name":"Pixel","ID":6737}
+{"Name":"skeet","ID":9588}
+{"Name":"BenZoGang","ID":9741}
+{"Name":"Kyrgyzstan","ID":6313}
+{"Name":"Supah","ID":9619}
+{"Name":"savage","ID":10616}
+{"Name":"x0x0x0","ID":9149}
+{"Name":"ROG-Warriors","ID":8761}
+{"Name":"SpeedRunners","ID":10594}
+{"Name":"RADNICKI","ID":10382}
+{"Name":"Airborne","ID":10425}
+{"Name":"Conquer","ID":7434}
+{"Name":"EVILNINE","ID":8628}
+{"Name":"Royalty","ID":10401}
+{"Name":"Falkol","ID":10028}
+{"Name":"Homesick","ID":8758}
+{"Name":"ENCHANT POISON","ID":10404}
+{"Name":"LOG","ID":6215}
+{"Name":"greshjerna","ID":10890}
+{"Name":"Windigo Academy","ID":8898}
+{"Name":"Hawks","ID":10387}
+{"Name":"Gucci Squad","ID":9184}
+{"Name":"dpe","ID":9117}
+{"Name":"Fearow","ID":10644}
+{"Name":"Mako","ID":10507}
+{"Name":"Execution","ID":8026}
+{"Name":"Lethal","ID":9443}
+{"Name":"VRTX","ID":10944}
+{"Name":"Broshenki","ID":10380}
+{"Name":"KoN Norway","ID":6419}
+{"Name":"ROG friberg","ID":8697}
+{"Name":"AccepT","ID":9633}
+{"Name":"Corvidae","ID":6922}
+{"Name":"Aerox","ID":9373}
+{"Name":"MAX","ID":8118}
+{"Name":"Faint","ID":10391}
+{"Name":"MARKandLARRY","ID":9942}
+{"Name":"Shock Bomb","ID":10844}
+{"Name":"4glory","ID":10933}
+{"Name":"Buffdaddy's Paypal","ID":10681}
+{"Name":"Lowkey","ID":9805}
+{"Name":"Wind and Rain","ID":8823}
+{"Name":"visomvet","ID":6897}
+{"Name":"VELOX","ID":10978}
+{"Name":"PRIMORDIAL","ID":9140}
+{"Name":"Incognito","ID":10838}
+{"Name":"Save's","ID":10818}
+{"Name":"potatosquad","ID":10269}
+{"Name":"Gronplade","ID":9461}
+{"Name":"HWML","ID":8613}
+{"Name":"CarritoSpain","ID":9422}
+{"Name":"Aster","ID":9868}
+{"Name":"ROG HOUNGOUNGAGNE","ID":8692}
+{"Name":"Blank","ID":10610}
+{"Name":"btr fanclub","ID":10809}
+{"Name":"3 Canadians 2 Americans","ID":9327}
+{"Name":"LF Org","ID":10718}
+{"Name":"ex-skullz","ID":10637}
+{"Name":"Prodigy","ID":10735}
+{"Name":"Oceanic","ID":9898}
+{"Name":"Team1","ID":7265}
+{"Name":"IVERIC","ID":9028}
+{"Name":"SEVERE","ID":10945}
+{"Name":"Grand Old Party Supporters","ID":9447}
+{"Name":"EOX","ID":10119}
+{"Name":"bezotca","ID":10807}
+{"Name":"FiveG","ID":10316}
+{"Name":"EloPerMinute","ID":10031}
+{"Name":"District 7","ID":8049}
+{"Name":"pieuwpieuw","ID":9606}
+{"Name":"Tribo Fu","ID":10093}
+{"Name":"YQF","ID":9542}
+{"Name":"RMU","ID":9024}
+{"Name":"struggletony","ID":7875}
+{"Name":"Revolution","ID":6679}
+{"Name":"Born in Mongolia","ID":7109}
+{"Name":"cr1ps","ID":10982}
+{"Name":"Simplicity","ID":10990}
+{"Name":"VENI VIDI VICI","ID":9394}
+{"Name":"Storm Rider","ID":9507}
+{"Name":"ex-Storm Riders","ID":9970}
+{"Name":"GNS","ID":10563}
+{"Name":"Incept","ID":7135}
+{"Name":"wrsrule","ID":9407}
+{"Name":"Zer0 Expectations","ID":8699}
+{"Name":"ImmuNe ","ID":4485}
+{"Name":"shinelikedemons","ID":10647}
+{"Name":"cTa","ID":10889}
+{"Name":"ex-MC","ID":10244}
+{"Name":"Tygrysy Sajsona","ID":8778}
+{"Name":"PressZ","ID":8767}
+{"Name":"Think Outside the Box","ID":9601}
+{"Name":"rEAK","ID":6631}
+{"Name":"KOVA","ID":9648}
+{"Name":"Boys in Blue","ID":9210}
+{"Name":"Gravity","ID":8763}
+{"Name":"xD","ID":8652}
+{"Name":"GROND","ID":10808}
+{"Name":"Paranoid","ID":10347}
+{"Name":"LITVA","ID":9562}
+{"Name":"Audacity","ID":9424}
+{"Name":"maquinas","ID":9728}
+{"Name":"Golden Knights","ID":10806}
+{"Name":"UTM","ID":7655}
+{"Name":"University of Houston | White","ID":9503}
+{"Name":"Squared Prospects","ID":8770}
+{"Name":"VITAL","ID":10470}
+{"Name":"Reseaux","ID":9597}
+{"Name":"BLITZKRIEG","ID":9915}
+{"Name":"EXILE","ID":10163}
+{"Name":"heX","ID":10185}
+{"Name":"Andrew's Big Toe","ID":9302}
+{"Name":"NMSL","ID":10071}
+{"Name":"Vindicta","ID":7577}
+{"Name":"QDLM","ID":9349}
+{"Name":"Codewise Unicorns","ID":8572}
+{"Name":"NoSurrender","ID":10685}
+{"Name":"Make It Happen","ID":9243}
+{"Name":"ex-Make it Happen","ID":10447}
+{"Name":"UP","ID":10490}
+{"Name":"EZ5","ID":10395}
+{"Name":"Xplicit","ID":9505}
+{"Name":"NLG","ID":9789}
+{"Name":"LLG","ID":8375}
+{"Name":"GoHome","ID":8824}
+{"Name":"EXORS","ID":10523}
+{"Name":"CERUS","ID":7621}
+{"Name":"FTW.PRO","ID":5272}
+{"Name":"ICBW","ID":9548}
+{"Name":"really weird","ID":10326}
+{"Name":"YAN IS BALD","ID":9057}
+{"Name":"Quad","ID":8905}
+{"Name":"24BHB","ID":8191}
+{"Name":"OG GANG SQUAD\t","ID":10422}
+{"Name":"FIREMIX","ID":9628}
+{"Name":"AEON","ID":7699}
+{"Name":"Spirifex fe","ID":8983}
+{"Name":"finkatt","ID":10100}
+{"Name":"Stepback","ID":10651}
+{"Name":"cismix","ID":10849}
+{"Name":"Blessed","ID":10732}
+{"Name":"XPC","ID":4982}
+{"Name":"Macau Legend","ID":9622}
+{"Name":"cat345","ID":9399}
+{"Name":"Dogs","ID":10919}
+{"Name":"GRAFICIARZE","ID":10753}
+{"Name":"RBG","ID":10258}
+{"Name":"Pompa","ID":8209}
+{"Name":"Geostorm","ID":9087}
+{"Name":"ArkAngel","ID":8633}
+{"Name":"Strawberry Puppy Kisses","ID":9328}
+{"Name":"Watchmen","ID":9819}
+{"Name":"BIG Academy","ID":10254}
+{"Name":"HealthPoint","ID":10103}
+{"Name":"Station7","ID":10584}
+{"Name":"Tenerife Titans","ID":10162}
+{"Name":"eufnbu","ID":9667}
+{"Name":"iGame.com","ID":7331}
+{"Name":"SWS","ID":10709}
+{"Name":"After","ID":10847}
+{"Name":"weWILLwin","ID":8771}
+{"Name":"Cyber Legacy","ID":10677}
+{"Name":"ztrewq","ID":10746}
+{"Name":"Nobodys","ID":9892}
+{"Name":"Bizarre","ID":10205}
+{"Name":"Dragons","ID":9086}
+{"Name":"Murderers Row 5","ID":8752}
+{"Name":"StackEm","ID":10202}
+{"Name":"ajuri","ID":5032}
+{"Name":"DREAMSELLER","ID":10365}
+{"Name":"Black Dragons","ID":7081}
+{"Name":"Keep the Comms Up","ID":10691}
+{"Name":"Baecon","ID":9768}
+{"Name":"plan-B","ID":8712}
+{"Name":"RAVE","ID":8792}
+{"Name":"AOAO","ID":10385}
+{"Name":"Electrify","ID":10653}
+{"Name":"Alma","ID":10078}
+{"Name":"wNv","ID":7798}
+{"Name":"Atlas Lions","ID":8701}
+{"Name":"ex-Bizarre","ID":10590}
+{"Name":"ATF","ID":9829}
+{"Name":"Soberano","ID":10484}
+{"Name":"Offbeat","ID":10012}
+{"Name":"og3od","ID":10493}
+{"Name":"Não Tem Biscoito","ID":9415}
+{"Name":"Gamdias","ID":9525}
+{"Name":"Illini","ID":8860}
+{"Name":"HUKKA","ID":10441}
+{"Name":"teamasd","ID":7819}
+{"Name":"key2success","ID":8936}
+{"Name":"expert","ID":9393}
+{"Name":"cisbots","ID":10598}
+{"Name":"CPTL","ID":10643}
+{"Name":"Chosen5","ID":6780}
+{"Name":"Huzy","ID":9355}
+{"Name":"No Problem!","ID":5909}
+{"Name":"segura o bone","ID":9925}
+{"Name":"Fraggerz","ID":9764}
+{"Name":"SI","ID":8726}
+{"Name":"Hurricane Dolphin","ID":8802}
+{"Name":"Masterminds","ID":7967}
+{"Name":"MVP.karnal","ID":6109}
+{"Name":"Asterisk fe","ID":8686}
+{"Name":"Black","ID":9890}
+{"Name":"LANg0ds","ID":8592}
+{"Name":"KVALL","ID":10003}
+{"Name":"Big Rods","ID":10358}
+{"Name":"ZERO","ID":9602}
+{"Name":"MYF","ID":9609}
+{"Name":"Candy Camel","ID":8112}
+{"Name":"eXposed","ID":9141}
+{"Name":"KPI","ID":7339}
+{"Name":"Wochhs","ID":10955}
+{"Name":"TinderklubeN","ID":8811}
+{"Name":"2K","ID":10518}
+{"Name":"Waves","ID":10011}
+{"Name":"Salty Skins","ID":9570}
+{"Name":"NoBrain","ID":9740}
+{"Name":"Farmers","ID":9520}
+{"Name":"Vcore Knights","ID":10293}
+{"Name":"Heartless","ID":10701}
+{"Name":"Meraki","ID":9314}
+{"Name":"sk8erbois ","ID":9065}
+{"Name":"Alpha Wolves","ID":9212}
+{"Name":"York","ID":9025}
+{"Name":"ex-Mustang Crew","ID":10911}
+{"Name":"Dracarys","ID":10094}
+{"Name":"Scourge of Gods","ID":9071}
+{"Name":"2ez","ID":8460}
+{"Name":"volgare","ID":5579}
+{"Name":"Grizzlys","ID":8748}
+{"Name":"Sector One","ID":7375}
+{"Name":"AnimeAye","ID":10376}
+{"Name":"demise","ID":6584}
+{"Name":"Sector 7","ID":9284}
+{"Name":"Moops","ID":10188}
+{"Name":"6e3t9n","ID":9288}
+{"Name":"Space Jam","ID":7017}
+{"Name":"Sadboyz","ID":10260}
+{"Name":"Dynasty","ID":9272}
+{"Name":"LAN DODGERS","ID":5445}
+{"Name":"Sestri","ID":10390}
+{"Name":"The Onliners","ID":8819}
+{"Name":"Dead Pixels","ID":6369}
+{"Name":"Avengers","ID":10087}
+{"Name":"Living Like Larry","ID":9386}
+{"Name":"Mammoth","ID":8493}
+{"Name":"Londr4ma","ID":9416}
+{"Name":"Updraft","ID":10053}
+{"Name":"France fe","ID":9752}
+{"Name":"UnlukoExpress","ID":10628}
+{"Name":"Realize","ID":9401}
+{"Name":"ProdigY","ID":9676}
+{"Name":"Represent","ID":9347}
+{"Name":"Fear the Reaper","ID":7991}
+{"Name":"imperial","ID":10223}
+{"Name":"HONORIS","ID":10737}
+{"Name":"Chiken Squad","ID":9772}
+{"Name":"97club","ID":5342}
+{"Name":"ex-Vizard","ID":9563}
+{"Name":"HHR El-teknik","ID":8952}
+{"Name":"SILENT","ID":9437}
+{"Name":"Entropiq","ID":10831}
+{"Name":"Skyfire","ID":6161}
+{"Name":"preanus","ID":7986}
+{"Name":"Trivium","ID":10686}
+{"Name":"WePlayGames","ID":9418}
+{"Name":"SACRAMENTO","ID":10466}
+{"Name":"Booty Duty","ID":9682}
+{"Name":"Main Street","ID":7714}
+{"Name":"Cerberus","ID":10474}
+{"Name":"2990","ID":9100}
+{"Name":"Spinach Farmers","ID":10471}
+{"Name":"ex-Next Generation","ID":9109}
+{"Name":"chebran","ID":9950}
+{"Name":"Instinct","ID":10025}
+{"Name":"boxr","ID":6050}
+{"Name":"HSL","ID":10500}
+{"Name":"ex-AVANT","ID":9476}
+{"Name":"Wolves Crew","ID":10898}
+{"Name":"Precision","ID":6056}
+{"Name":"Parallax","ID":10327}
+{"Name":"tbd","ID":9360}
+{"Name":"ATE","ID":5012}
+{"Name":"Brasil Gaming House","ID":8411}
+{"Name":"EsT","ID":8996}
+{"Name":"Cream","ID":9636}
+{"Name":"Way 2 French","ID":10723}
+{"Name":"Pyrsos","ID":9146}
+{"Name":"DPS","ID":9106}
+{"Name":"KGG","ID":10181}
+{"Name":"JYP","ID":7491}
+{"Name":"Arctic","ID":7684}
+{"Name":"Crowns fe","ID":7478}
+{"Name":"Talentjes","ID":9725}
+{"Name":"MightyWolves","ID":9197}
+{"Name":"NewBALLS","ID":10235}
+{"Name":"L9L","ID":10480}
+{"Name":"Riotous","ID":7129}
+{"Name":"Rulez","ID":10388}
+{"Name":"BRK","ID":8579}
+{"Name":"DREAMHOUSE","ID":10987}
+{"Name":"ESIMED","ID":10840}
+{"Name":"rTE","ID":7480}
+{"Name":"risefrom","ID":10477}
+{"Name":"Supernova","ID":10558}
+{"Name":"D13","ID":8607}
+{"Name":"SCIENCE","ID":10519}
+{"Name":"Serenic","ID":8703}
+{"Name":"Veto","ID":10717}
+{"Name":"Bragantino","ID":9361}
+{"Name":"CLS","ID":8995}
+{"Name":"The Home of the Grave","ID":10179}
+{"Name":"TDJSF","ID":6783}
+{"Name":"TOLY","ID":10058}
+{"Name":"Hyper","ID":7289}
+{"Name":"Glockoma","ID":8545}
+{"Name":"NEDS","ID":10546}
+{"Name":"Run This Town","ID":9594}
+{"Name":"O2","ID":9220}
+{"Name":"Unicorns of Love","ID":9812}
+{"Name":"Freedom Fraggers","ID":8564}
+{"Name":"Bulldozer","ID":9013}
+{"Name":"Pizza Delivery","ID":8873}
+{"Name":"Sabertooth","ID":7274}
+{"Name":"Brazen","ID":10462}
+{"Name":"lesgedi","ID":9994}
+{"Name":"cabrone5","ID":10439}
+{"Name":"R!OT","ID":7972}
+{"Name":"Cephei","ID":10600}
+{"Name":"MK","ID":6959}
+{"Name":"eXtreme","ID":9830}
+{"Name":"Bet at Home","ID":8713}
+{"Name":"ROG strike","ID":8694}
+{"Name":"Make Your Destiny","ID":9671}
+{"Name":"Downfall","ID":8883}
+{"Name":"GAMERZ BLUE","ID":7930}
+{"Name":"BLACK TOTEM","ID":10881}
+{"Name":"The Eternal Hunters","ID":9142}
+{"Name":"Ratatatata","ID":10487}
+{"Name":"LEGO","ID":8412}
+{"Name":"Yilmazzz","ID":9143}
+{"Name":"GANSOS","ID":9859}
+{"Name":"Unluckers","ID":10635}
+{"Name":"aesthetic","ID":7927}
+{"Name":"TGS","ID":10360}
+{"Name":"TRTRR","ID":9977}
+{"Name":"Spirifex","ID":8711}
+{"Name":"PG BarracX","ID":9414}
+{"Name":"Blight","ID":7105}
+{"Name":"Knock Out","ID":9493}
+{"Name":"MoopsXD","ID":10155}
+{"Name":"Velocity","ID":8060}
+{"Name":"Zepheria","ID":9442}
+{"Name":"Fenrir","ID":10859}
+{"Name":"Elemental","ID":10775}
+{"Name":"Thirteen","ID":9618}
+{"Name":"einheit","ID":4933}
+{"Name":"topkek","ID":9298}
+{"Name":"kinetic","ID":10502}
+{"Name":"need more DM","ID":8424}
+{"Name":"Exalty","ID":9783}
+{"Name":"Jake Bube","ID":6128}
+{"Name":"ex-QBF","ID":9569}
+{"Name":"Warzone","ID":10291}
+{"Name":"ad hoc","ID":10128}
+{"Name":"The Final Tribe","ID":10040}
+{"Name":"The Ruskiz","ID":9591}
+{"Name":"Ultimate","ID":10757}
+{"Name":"BBC","ID":9914}
+{"Name":"Damage Control","ID":5154}
+{"Name":"Atlando","ID":8925}
+{"Name":"Budapest Blaze","ID":8816}
+{"Name":"Entelechy","ID":9137}
+{"Name":"ex-Mentality","ID":9233}
+{"Name":"Exdee","ID":7647}
+{"Name":"Carnage fe","ID":9646}
+{"Name":"Last minute","ID":10443}
+{"Name":"Chetz","ID":10545}
+{"Name":"hREDS","ID":10116}
+{"Name":"Mustang Crew","ID":10693}
+{"Name":"mustasch","ID":8777}
+{"Name":"Astralis Talent","ID":10954}
+{"Name":"Queso","ID":9616}
+{"Name":"Bronchitis","ID":10250}
+{"Name":"TILTED","ID":9762}
+{"Name":"GameTV","ID":8499}
+{"Name":"beastm0de","ID":9680}
+{"Name":"ROG nooky","ID":8695}
+{"Name":"Alex Jones 2020","ID":8855}
+{"Name":"Control","ID":8434}
+{"Name":"Revolution","ID":9412}
+{"Name":"RED STAR","ID":9593}
+{"Name":"ex-Bragantino","ID":9909}
+{"Name":"OL","ID":10996}
+{"Name":"Iraq","ID":8601}
+{"Name":"Chill","ID":10427}
+{"Name":"Orgless","ID":8785}
+{"Name":"Team123","ID":9935}
+{"Name":"VodkaJuniors","ID":10337}
+{"Name":"S2V","ID":10571}
+{"Name":"Wohooo","ID":10005}
+{"Name":"Oilers","ID":10942}
+{"Name":"dreamWorse","ID":9059}
+{"Name":"idc go next","ID":10356}
+{"Name":"Property","ID":5319}
+{"Name":"Snabbabrillor","ID":8186}
+{"Name":"Fragbox","ID":10257}
+{"Name":"srry4waht","ID":10506}
+{"Name":"Granit","ID":8930}
+{"Name":"UBITEAM","ID":10869}
+{"Name":"3era","ID":9700}
+{"Name":"Immortals","ID":8675}
+{"Name":"reflex","ID":9839}
+{"Name":"seven","ID":6415}
+{"Name":"The Last Resort","ID":6089}
+{"Name":"DUMSPIROSPERO","ID":9644}
+{"Name":"LONDONGG","ID":9241}
+{"Name":"Rush Middle East","ID":9159}
+{"Name":"Vinkelparty","ID":7471}
+{"Name":"Uber To Your Crib","ID":9280}
+{"Name":"Retired","ID":9730}
+{"Name":"Lucid","ID":7490}
+{"Name":"PSYCHOACTIVE","ID":7498}
+{"Name":"Fantastic","ID":10440}
+{"Name":"Enter","ID":7977}
+{"Name":"duvan","ID":10042}
+{"Name":"Stomps Money Crew","ID":10362}
+{"Name":"Trident","ID":10977}
+{"Name":"JustSwing","ID":9058}
+{"Name":"Empire","ID":9315}
+{"Name":"FriendlyFire","ID":9062}
+{"Name":"Devour","ID":6868}
+{"Name":"Asterius","ID":10678}
+{"Name":"Valstars","ID":10029}
+{"Name":"Kazek","ID":9126}
+{"Name":"MongrelMob","ID":9571}
+{"Name":"Kryvbas","ID":10413}
+{"Name":"Young Blood","ID":9835}
+{"Name":"ZePugGodZ","ID":9808}
+{"Name":"WarKidZ","ID":10177}
+{"Name":"MFC","ID":9031}
+{"Name":"EGOBOYZ","ID":10666}
+{"Name":"NOPROB","ID":9457}
+{"Name":".4sv","ID":8863}
+{"Name":"Locastic","ID":7964}
+{"Name":"Bantz","ID":10712}
+{"Name":"RageFaction","ID":9510}
+{"Name":"ACES Ladies","ID":5763}
+{"Name":"On The Run","ID":8250}
+{"Name":"cooL","ID":5686}
+{"Name":"Conspiracy","ID":8436}
+{"Name":"NinjaServ","ID":9433}
+{"Name":"Fiery","ID":10348}
+{"Name":"KAIJU","ID":9309}
+{"Name":"LongHAIRidc","ID":10062}
+{"Name":"OTF","ID":9204}
+{"Name":"AYB","ID":8190}
+{"Name":"Aim.Attack","ID":9695}
+{"Name":"ex-Caladrius","ID":9946}
+{"Name":"ROG SkitzMACHINE","ID":8693}
+{"Name":"Aalborg Rebels","ID":10724}
+{"Name":"Ethereal","ID":10880}
+{"Name":"Los gurises","ID":10285}
+{"Name":"RUSH B","ID":9168}
+{"Name":"gamingxd","ID":9672}
+{"Name":"Defy Rebellion","ID":9323}
+{"Name":"LoaThE","ID":8494}
+{"Name":"Gaminate","ID":10871}
+{"Name":"Line X","ID":9034}
+{"Name":"Flash Point","ID":10986}
+{"Name":"Rhyno","ID":10947}
+{"Name":"SHIFT.WHITE","ID":10374}
+{"Name":"Defining Stars","ID":8166}
+{"Name":"Tiny Meat Gang","ID":10277}
+{"Name":"FREEROX","ID":10658}
+{"Name":"Addice","ID":10772}
+{"Name":"ECLOT","ID":7441}
+{"Name":"Uranus","ID":7516}
+{"Name":"4US","ID":9592}
+{"Name":"Overt","ID":10711}
+{"Name":"Peak","ID":10424}
+{"Name":"Legacy","ID":9889}
+{"Name":"thnakes","ID":9230}
+{"Name":"pARAMICE","ID":10964}
+{"Name":"DEFY","ID":10460}
+{"Name":"Viboras","ID":6643}
+{"Name":"ex-Asterius","ID":10837}
+{"Name":"Royal Republic","ID":10925}
+{"Name":"Jaguares","ID":10988}
+{"Name":"BEZ ZP","ID":10841}
+{"Name":"4Bowie","ID":10529}
+{"Name":"Vipe's Anime Squad","ID":10533}
+{"Name":"Invincible","ID":9293}
+{"Name":"Lunacy","ID":9027}
+{"Name":"lapw","ID":10583}
+{"Name":"Drove Here From Cali","ID":10222}
+{"Name":"Watch This","ID":10991}
+{"Name":"6558H","ID":9008}
+{"Name":"1998","ID":9923}
+{"Name":"MGRG","ID":10306}
+{"Name":"MIXSQUAD","ID":9828}
+{"Name":"Hype","ID":9365}
+{"Name":"my friends","ID":9232}
+{"Name":"Carpe Noctem","ID":9004}
+{"Name":"No IdeA","ID":8691}
+{"Name":"VANTA","ID":9954}
+{"Name":"Vizard","ID":9482}
+{"Name":"nerdRage","ID":6639}
+{"Name":"Tunisia","ID":6279}
+{"Name":"studs","ID":9294}
+{"Name":"IGI","ID":9702}
+{"Name":"Feniks","ID":10061}
+{"Name":"APE GANG","ID":9614}
+{"Name":"IdentityDisorder","ID":9913}
+{"Name":"BULGI","ID":9798}
+{"Name":"Homeless","ID":8285}
+{"Name":"Ryzen Dragons","ID":9532}
+{"Name":"Guerrilla Tactics","ID":7882}
+{"Name":"Onyx","ID":10026}
+{"Name":"IM11","ID":9905}
+{"Name":"Zagreb360","ID":9611}
+{"Name":"Buckets","ID":10375}
+{"Name":"-0_o-","ID":10064}
+{"Name":"ex-Thunder Logic","ID":10909}
+{"Name":"NeverPlay","ID":4639}
+{"Name":"CrouchShoot","ID":8912}
+{"Name":"ONLYUP","ID":9767}
+{"Name":"nTice","ID":10329}
+{"Name":"Mike Tysons","ID":10810}
+{"Name":"INTZ.Home","ID":9530}
+{"Name":"BATTLETOADS","ID":9908}
+{"Name":"HellSide","ID":10485}
+{"Name":"Riddle","ID":9136}
+{"Name":"Enterprise","ID":10873}
+{"Name":"Rhein Neckar","ID":10176}
+{"Name":"Clarity","ID":9694}
+{"Name":"orgless","ID":4480}
+{"Name":"Nexus Academy","ID":10107}
+{"Name":"Hadouken","ID":8011}
+{"Name":"5ks","ID":10846}
+{"Name":"TEAM5","ID":8392}
+{"Name":"Apologis","ID":10608}
+{"Name":"Follow me @","ID":9771}
+{"Name":"main jammers","ID":9002}
+{"Name":"We Da North","ID":10156}
+{"Name":"War Fleet","ID":9446}
+{"Name":"ahq","ID":10052}
+{"Name":"2anosOLD","ID":8735}
+{"Name":"Neverest","ID":9941}
+{"Name":"L4ORG","ID":10787}
+{"Name":"DStreet","ID":10160}
+{"Name":"Bojestvata","ID":7982}
+{"Name":"Zorka","ID":9887}
+{"Name":"Plan A","ID":10491}
+{"Name":"SAWO","ID":10865}
+{"Name":"Atrapa2","ID":9742}
+{"Name":"Prex's Goon Squad","ID":9595}
+{"Name":"1hp","ID":6338}
+{"Name":"Lucendi","ID":10886}
+{"Name":"TOA","ID":8055}
+{"Name":"Intic","ID":9933}
+{"Name":"UA$AP","ID":9645}
+{"Name":"RICKED","ID":9751}
+{"Name":"Loto","ID":10579}
+{"Name":"Online Kingdom","ID":10066}
+{"Name":"cOOLkids","ID":9662}
+{"Name":"VB","ID":9128}
+{"Name":"ANEW","ID":10516}
+{"Name":"KSHORRADA S.A","ID":9551}
+{"Name":"DIVIZON","ID":7425}
+{"Name":"Syntax","ID":10394}
+{"Name":"Deceptors","ID":8897}
+{"Name":"EZG Reunion","ID":8888}
+{"Name":"PUGLIFE","ID":8853}
+{"Name":"Water Walkers","ID":9844}
+{"Name":"Valhalla Vikings","ID":10921}
+{"Name":"Northern Forces","ID":10811}
+{"Name":"Eros","ID":10813}
+{"Name":"eEriness","ID":4970}
+{"Name":"ex-Blessed","ID":10858}
+{"Name":"Integral Nation","ID":10876}
+{"Name":"Vivency","ID":9776}
+{"Name":"Deportivo","ID":10833}
+{"Name":"MASONIC","ID":10867}
+{"Name":"Pub Masters","ID":8866}
+{"Name":"Hator.CZ","ID":9148}
+{"Name":"coluant","ID":7719}
+{"Name":"WEPLAY","ID":5337}
+{"Name":"Mock and the Rocks","ID":10049}
+{"Name":"Esi Pirmais","ID":8867}
+{"Name":"Mount Olympus","ID":10355}
+{"Name":"g4m3rZ","ID":9879}
+{"Name":"BLNK","ID":8807}
+{"Name":"Sway","ID":10534}
+{"Name":"H2L2","ID":10479}
+{"Name":"Revenant","ID":10874}
+{"Name":"Cosa Nostra","ID":9582}
+{"Name":"Demise fe","ID":10152}
+{"Name":"Skeletons Again","ID":8734}
+{"Name":"onlinerss","ID":10936}
+{"Name":"Go1dShark","ID":10084}
+{"Name":"Bifrost","ID":10726}
+{"Name":"munanyo","ID":10989}
+{"Name":"Marlian","ID":10935}
+{"Name":"/dab/","ID":9965}
+{"Name":"webSPELL","ID":4449}
+{"Name":"Bulldog","ID":7281}
+{"Name":"NIRVANA.Phoenix","ID":9640}
+{"Name":"ex-Incept","ID":10834}
+{"Name":"CYBERLIFE","ID":10497}
+{"Name":"FC Lahti Menace","ID":8445}
+{"Name":"C1Smix","ID":10878}
+{"Name":"Evolution","ID":5946}
+{"Name":"GTV.Revolution","ID":10417}
+{"Name":"ONEGODLIKE","ID":7365}
+{"Name":"Brutality","ID":6352}
+{"Name":"Shidiots","ID":10252}
+{"Name":"Gromatic","ID":8762}
+{"Name":"TRVPREMESLO","ID":10704}
+{"Name":"up north","ID":9521}
+{"Name":"DOG77","ID":10117}
+{"Name":"Jyderup","ID":10868}
+{"Name":"Northeast Mayhem","ID":9666}
+{"Name":"Burning Blades","ID":9029}
+{"Name":"Planetkey","ID":5195}
+{"Name":"Glizzy Gang","ID":10108}
+{"Name":"ASP","ID":9048}
+{"Name":"Royals","ID":9787}
+{"Name":"TolóPeek","ID":9992}
+{"Name":"FakeOutNation","ID":7263}
+{"Name":"Reign","ID":9692}
+{"Name":"Animal Squad","ID":6379}
+{"Name":"Clutch Rayn","ID":10963}
+{"Name":"Exillium","ID":9999}
+{"Name":"pharsyde","ID":10259}
+{"Name":"Good Fellas","ID":9429}
+{"Name":"epikk","ID":10256}
+{"Name":"PORCHA","ID":9959}
+{"Name":"Hi, I'm Billy Mays","ID":9326}
+{"Name":"Berzerk","ID":8526}
+{"Name":"ex-PRIDE","ID":9448}
+{"Name":"ne parsya","ID":10640}
+{"Name":"Cyberstorm","ID":8161}
+{"Name":"PeppaPigs","ID":10403}
+{"Name":"Dynasty","ID":6630}
+{"Name":"MorningStars","ID":9237}
+{"Name":"MDL Jammers","ID":9103}
+{"Name":"Hentai Heroes","ID":9851}
+{"Name":"S&amp;P","ID":9918}
+{"Name":"Dark Origin","ID":8881}
+{"Name":"MOLDOVENII","ID":10120}
+{"Name":"IGEN","ID":10649}
+{"Name":"Big Chillin","ID":9875}
+{"Name":"SKDC","ID":5454}
+{"Name":"VTE","ID":9561}
+{"Name":"NecroRaisers","ID":4778}
+{"Name":"zurditos","ID":10526}
+{"Name":"QSKE","ID":10763}
+{"Name":"Good Game","ID":10903}
+{"Name":"MOLLIHblE","ID":9643}
+{"Name":"Wild","ID":8197}
+{"Name":"THE MIGHTY DUCKS","ID":8724}
+{"Name":"Blue Void","ID":9478}
+{"Name":"Nordic Warthogs","ID":7677}
+{"Name":"A Point","ID":10280}
+{"Name":"Future Perfect","ID":10228}
+{"Name":"ex-T.O.T","ID":8678}
+{"Name":"XENEX","ID":6091}
+{"Name":"D7G","ID":10433}
+{"Name":"Fallen5","ID":10290}
+{"Name":"buaksib","ID":10104}
+{"Name":"PC419","ID":9750}
+{"Name":"Invictus Aquilas","ID":7870}
+{"Name":"VP.Prodigy","ID":10864}
+{"Name":"VICTIM","ID":10393}
+{"Name":"Flex Tape","ID":9332}
+{"Name":"Spawn","ID":9138}
+{"Name":"26 Rising","ID":10771}
+{"Name":"Vilay","ID":9540}
+{"Name":"RedFear","ID":8309}
+{"Name":"PIXELBANDITS","ID":10139}
+{"Name":"Ladon","ID":10057}
+{"Name":"Ambulance","ID":10130}
+{"Name":"Obsidium","ID":9526}
+{"Name":"CyberEA","ID":9537}
+{"Name":"OPENFRAGS","ID":9631}
+{"Name":"Fallout","ID":8584}
+{"Name":"Bad News Bandits","ID":10539}
+{"Name":"clear","ID":9911}
+{"Name":"Mega Lada","ID":9738}
+{"Name":"FURY","ID":10295}
+{"Name":"Não Tem Org","ID":9369}
+{"Name":"NoNamers","ID":9188}
+{"Name":"ratoes","ID":10038}
+{"Name":"Formidable","ID":9253}
+{"Name":"Xtreme 5","ID":10370}
+{"Name":"Bleiz","ID":7918}
+{"Name":"Allround-PC","ID":9438}
+{"Name":"Babos","ID":10448}
+{"Name":"Bonde da Stronda","ID":9934}
+{"Name":"God Particles","ID":8512}
+{"Name":"Project C","ID":10949}
+{"Name":"HIT AND RUN","ID":9528}
+{"Name":"Dynasty","ID":9094}
+{"Name":"Divine Soldiers","ID":10075}
+{"Name":"PopoutBoyz","ID":9807}
+{"Name":"777","ID":10943}
+{"Name":"xTc","ID":6569}
+{"Name":"VelGT","ID":8791}
+{"Name":"jysp","ID":9543}
+{"Name":"Marskalk","ID":8951}
+{"Name":"pSlayers","ID":9605}
+{"Name":"Grown Men","ID":9296}
+{"Name":"Nturtles","ID":9010}
+{"Name":"AaB Elite","ID":9621}
+{"Name":"Antithese","ID":9639}
+{"Name":"Assault Team","ID":9858}
+{"Name":"Aftermind","ID":10776}
+{"Name":"GMCC","ID":10575}
+{"Name":"Sub:stance","ID":6915}
+{"Name":"Vital Spark","ID":9884}
+{"Name":"Truth","ID":9391}
+{"Name":"140 Years of Exp","ID":9311}
+{"Name":"7evenChapters","ID":9779}
+{"Name":"Slaughter Rage Army","ID":8511}
+{"Name":"UCSC","ID":10006}
+{"Name":"DeathWay","ID":9283}
+{"Name":"RIG","ID":9452}
+{"Name":"caprisonhey","ID":9460}
+{"Name":"can't believe she took the kids","ID":9778}
+{"Name":"District 9","ID":10368}
+{"Name":"Stabæk Momentum","ID":10083}
+{"Name":"F4K3","ID":10589}
+{"Name":"Nova","ID":8356}
+{"Name":"Frag Kings","ID":9063}
+{"Name":"Content","ID":9727}
+{"Name":"TRZ","ID":10045}
+{"Name":"Highscore","ID":4735}
+{"Name":"aimclub","ID":6810}
+{"Name":"POWEROUTAGE","ID":9978}
+{"Name":"SCARZ","ID":7483}
+{"Name":"ROG SPUNJ","ID":7535}
+{"Name":"ARMADA","ID":6265}
+{"Name":"Exodus","ID":6893}
+{"Name":"Prismatic","ID":10255}
+{"Name":"SeaLions","ID":10352}
+{"Name":"Gravitas","ID":10221}
+{"Name":"DO OR DIE","ID":10303}
+{"Name":"ZaBabkami","ID":10241}
+{"Name":"Dippers","ID":10325}
+{"Name":"Dr. Pepper","ID":9434}
+{"Name":"gloryUS","ID":8989}
+{"Name":"Novacancy","ID":10001}
+{"Name":"Volta7","ID":10081}
+{"Name":"UNITE","ID":9248}
+{"Name":"ex-Intic","ID":10544}
+{"Name":"WASDWASDwtfcantmove","ID":8987}
+{"Name":"Black Label Society","ID":9857}
+{"Name":"Fusion","ID":9479}
+{"Name":"Apocalypse","ID":9575}
+{"Name":"pzd","ID":9993}
+{"Name":"Playing Ducks","ID":5009}
+{"Name":"E-MATiC","ID":10063}
+{"Name":"ROCK CANDY","ID":10581}
+{"Name":"NeedJobs","ID":6950}
+{"Name":"BLG","ID":8967}
+{"Name":"Wildcats","ID":9218}
+{"Name":"CSGOGYN","ID":10450}
+{"Name":"Amazing Wicked ","ID":9886}
+{"Name":"Giants fe","ID":9895}
+{"Name":"essketit","ID":9012}
+{"Name":"GODLIKE","ID":9240}
+{"Name":"Zoom","ID":9538}
+{"Name":"Champagne SuperNova","ID":8739}
+{"Name":"Ninjas in Boedo","ID":9658}
+{"Name":"Good","ID":10336}
+{"Name":"Dogs","ID":10410}
+{"Name":"Rão","ID":9226}
+{"Name":"Galactica","ID":9116}
+{"Name":"mixtape","ID":8766}
+{"Name":"MauRiSiO","ID":9380}
+{"Name":"Alpha","ID":6807}
+{"Name":"ROG pronax","ID":9791}
+{"Name":"dopexx","ID":9979}
+{"Name":"Kinesis","ID":9322}
+{"Name":"Instinct","ID":9691}
+{"Name":"Villainous","ID":10819}
+{"Name":"Caught off Guard","ID":10828}
+{"Name":"ESEA Clout Tokens","ID":8430}
+{"Name":"Miscreant","ID":9947}
+{"Name":"AurumFive","ID":9894}
+{"Name":"Jurassic Park","ID":9257}
+{"Name":"The Incas","ID":10961}
+{"Name":"omeN attiH","ID":10824}
+{"Name":"Regal Reserve","ID":9770}
+{"Name":"Legacy of Aeons","ID":9774}
+{"Name":"baldkrew","ID":9123}
+{"Name":"L'arrosoir","ID":8884}
+{"Name":"Paris Gaming School","ID":8910}
+{"Name":"ImPerium","ID":10624}
+{"Name":"mYinsanity","ID":9439}
+{"Name":"EXEC","ID":7815}
+{"Name":"w2c","ID":10705}
+{"Name":"Young Daddy Gang","ID":8715}
+{"Name":"Very1z","ID":10073}
+{"Name":"Able White","ID":10779}
+{"Name":"Doxa","ID":10197}
+{"Name":"Nice","ID":8518}
+{"Name":"Aetas x Strijders","ID":10153}
+{"Name":"One One","ID":10283}
+{"Name":"Nocturns","ID":7137}
+{"Name":"Riot fe","ID":7939}
+{"Name":"PRIDE Academy","ID":8779}
+{"Name":"INRI","ID":5406}
+{"Name":"Arrow","ID":10543}
+{"Name":"twwin","ID":9147}
+{"Name":"Blink","ID":9157}
+{"Name":"faBB","ID":8776}
+{"Name":"TPT","ID":10992}
+{"Name":"VNS Sushi Rão","ID":9035}
+{"Name":"LoudNClear","ID":9372}
+{"Name":"LiNE5 Academy","ID":9104}
+{"Name":"UTA","ID":9711}
+{"Name":"nEEts","ID":9164}
+{"Name":"IGNITE","ID":9577}
+{"Name":"Revenge","ID":8820}
+{"Name":"Enchantcreeps","ID":10264}
+{"Name":"CSBL","ID":8900}
+{"Name":"ex-ImPerium","ID":10914}
+{"Name":"Hobro Vikings","ID":9459}
+{"Name":"Counter Nature","ID":10906}
+{"Name":"Pompa Black","ID":7834}
+{"Name":"EMC","ID":6422}
+{"Name":"Forge","ID":8444}
+{"Name":"Dawn of Stars","ID":9496}
+{"Name":"burds treadmill","ID":9198}
+{"Name":"NBD","ID":9831}
+{"Name":"Doit","ID":10456}
+{"Name":"Seven.Modula","ID":10615}
+{"Name":"Quixotic Reality","ID":9317}
+{"Name":"ToyStory","ID":10086}
+{"Name":"Water Articulate AF","ID":10821}
+{"Name":"Uzbekistan","ID":7107}
+{"Name":"SpaceStress","ID":10090}
+{"Name":"ikarus","ID":8203}
+{"Name":"hős utca peek","ID":10296}
+{"Name":"No Quarter Cartel","ID":8843}
+{"Name":"KKona","ID":6794}
+{"Name":"Vae Victis","ID":7261}
+{"Name":"810 SENPAI","ID":9617}
+{"Name":"The Prime","ID":9413}
+{"Name":"EZRetake","ID":10321}
+{"Name":"Kungar","ID":7911}
+{"Name":"LGB fe","ID":6241}
+{"Name":"ducc","ID":9841}
+{"Name":"Cohesive Concepts","ID":10850}
+{"Name":"Hell and Kill","ID":10428}
+{"Name":"Arks","ID":10415}
+{"Name":"Artyk","ID":6542}
+{"Name":"HWML","ID":9897}
+{"Name":"Nostalgie","ID":4742}
+{"Name":"TRIDENT Storm","ID":8041}
+{"Name":"ClaqueT","ID":9151}
+{"Name":"REXO fe","ID":9988}
+{"Name":"Slick Devils","ID":10758}
+{"Name":"NONAME","ID":9854}
+{"Name":"Encore","ID":9222}
+{"Name":"low mangoes","ID":10074}
+{"Name":"Anunnaki","ID":7789}
+{"Name":"Shyboyz","ID":10359}
+{"Name":"Bulls","ID":10350}
+{"Name":"Axis","ID":10591}
+{"Name":"Vulture","ID":8427}
+{"Name":"cokeline","ID":9410}
+{"Name":"Killing Your Idols","ID":9305}
+{"Name":"Caladrius","ID":9800}
+{"Name":"MAFiA","ID":9688}
+{"Name":"Vanguard","ID":8110}
+{"Name":"Piantaos","ID":9745}
+{"Name":"Synergy","ID":9973}
+{"Name":"Midwest CS:GO","ID":9256}
+{"Name":"mix0r","ID":9904}
+{"Name":"BUND","ID":9291}
+{"Name":"esea open","ID":10683}
+{"Name":"PUR$i$EURA","ID":8517}
+{"Name":"FreeStyle","ID":10603}
+{"Name":"LCM","ID":7651}
+{"Name":"OrgSeekers","ID":10232}
+{"Name":"Orange","ID":5013}
+{"Name":"Spot Up","ID":8998}
+{"Name":"Project Eversio","ID":10937}
+{"Name":"Hc","ID":10825}
+{"Name":"dreamteam","ID":9135}
+{"Name":"CheeseLTD","ID":9749}
+{"Name":"Off The Grid","ID":9821}
+{"Name":"30.6","ID":10301}
+{"Name":"Glacon","ID":7936}
+{"Name":"Powar Rangirls","ID":8687}
+{"Name":"GRIFFINS","ID":9580}
+{"Name":"isaGOD","ID":9181}
+{"Name":"Momentum.air","ID":8942}
+{"Name":"Fylkir","ID":10170}
+{"Name":"voLante","ID":9876}
+{"Name":"Force of Modem","ID":10036}
+{"Name":"bivaetitak","ID":8463}
+{"Name":"Outsourced Tech Support","ID":9325}
+{"Name":"SABER","ID":8754}
+{"Name":"MadMonkeyZ","ID":9467}
+{"Name":"ex-MC Academy","ID":10689}
+{"Name":"7Sins","ID":10585}
+{"Name":"h4rr1-p0tt3r","ID":8932}
+{"Name":"VIHARTINDERGULD","ID":10048}
+{"Name":"Constant Motion","ID":10520}
+{"Name":"Talon","ID":8210}
+{"Name":"HeadShotKings","ID":10985}
+{"Name":"Malhar","ID":9353}
+{"Name":"Flexal","ID":8755}
+{"Name":"Vaniity","ID":10908}
+{"Name":"Reply Totem","ID":10938}
+{"Name":"Sad Story","ID":9076}
+{"Name":"unfortunate circumstances ","ID":10501}
+{"Name":"Elite Wolves","ID":7314}
+{"Name":"WiLD","ID":4903}
+{"Name":"OK.Blaze","ID":8731}
+{"Name":"Veneration","ID":6293}
+{"Name":"Legion","ID":10517}
+{"Name":"Izrgod","ID":8834}
+{"Name":"Mostly Harmless","ID":6057}
+{"Name":"los kogutos","ID":10854}
+{"Name":"CRNB","ID":10789}
+{"Name":"Fearow","ID":10446}
+{"Name":"PointClick","ID":9026}
+{"Name":"N47","ID":9986}
+{"Name":"nark0se","ID":8817}
+{"Name":"Legacy of Jenume","ID":8745}
+{"Name":"gEgE","ID":10143}
+{"Name":"Tricked Academy","ID":7551}
+{"Name":"Horus","ID":9627}
+{"Name":"U-19","ID":10251}
+{"Name":"Shooting Stars","ID":9045}
+{"Name":"OverKnight","ID":10901}
+{"Name":"VirtuaFX","ID":10046}
+{"Name":"Nova Dragons","ID":9852}
+{"Name":"Wolf5","ID":10070}
+{"Name":"Optimistic","ID":10320}
+{"Name":"Vantage","ID":8974}
+{"Name":"IvrigaFingrar","ID":9195}
+{"Name":"taloo","ID":10318}
+{"Name":"Rstar","ID":6634}
+{"Name":"dopeclvb","ID":10607}
+{"Name":"EVOS","ID":9801}
+{"Name":"ZOOWEEMAMA","ID":10339}
+{"Name":"NOXIUM fe","ID":8503}
+{"Name":"Atlas","ID":9499}
+{"Name":"EBOOT","ID":9737}
+{"Name":"SKADE fe","ID":10690}
+{"Name":"Cyberstorm Blue","ID":10952}
+{"Name":"5 Monkeys","ID":10007}
+{"Name":"Az","ID":7481}
+{"Name":"Broken Alliance","ID":6811}
+{"Name":"CYBERSABLE","ID":9289}
+{"Name":"uMx","ID":10879}
+{"Name":"Azure","ID":8737}
+{"Name":"PHD","ID":9334}
+{"Name":"Movistar Riders Blue","ID":8702}
+{"Name":"KidsOfDomination","ID":9300}
+{"Name":"AnticlockwiSe","ID":8690}
+{"Name":"Akatsuki","ID":10622}
+{"Name":"Aviato","ID":10175}
+{"Name":"ViNCO","ID":10067}
+{"Name":"Paradise","ID":10114}
+{"Name":"GoBananas","ID":10920}
+{"Name":"RTB","ID":9092}
+{"Name":"mixLAN","ID":9121}
+{"Name":"liminka","ID":10141}
+{"Name":"Heavy KnockOut","ID":9838}
+{"Name":"Eternity","ID":9406}
+{"Name":"Predator","ID":10378}
+{"Name":"Nordavind NO","ID":10729}
+{"Name":"PGE Turow","ID":10905}
+{"Name":"Made in Karachi","ID":9475}
+{"Name":"Fractals","ID":8255}
+{"Name":"Get Rekt","ID":9404}
+{"Name":"Cleanstore","ID":10843}
+{"Name":"Portal X","ID":9733}
+{"Name":"Sørby Academy","ID":7749}
+{"Name":"ZODIACS","ID":8710}
+{"Name":"rozu","ID":10688}
+{"Name":"Horus","ID":9707}
+{"Name":"Single Daddy","ID":10079}
+{"Name":"darks1d3","ID":9205}
+{"Name":"EAGLES","ID":10932}
+{"Name":"1820HT","ID":10623}
+{"Name":"Hollywood's Hooligans","ID":9320}
+{"Name":"Power Buff Boys","ID":8854}
+{"Name":"MEAT LAVKA","ID":9101}
+{"Name":"Russian Street Party","ID":10588}
+{"Name":"XUXAN","ID":9338}
+{"Name":"Draconic","ID":10684}
+{"Name":"God Is With Us","ID":8759}
+{"Name":"Orange.Sphynx","ID":10169}
+{"Name":"Drama Dogs","ID":9316}
+{"Name":"DRAGON LORE","ID":9637}
+{"Name":"Gamedock","ID":10489}
+{"Name":"Voitelijat","ID":9583}
+{"Name":"3xTeam","ID":7445}
+{"Name":"BEE","ID":10957}
+{"Name":"Magic","ID":9340}
+{"Name":"Absolute5","ID":9635}
+{"Name":"Plus10Elo","ID":9699}
+{"Name":"Ninjustice","ID":10008}
+{"Name":"Titan","ID":9269}
+{"Name":"ARCRED","ID":10459}
+{"Name":"Morituri","ID":9271}
+{"Name":"Aim4R Hasteka","ID":8835}
+{"Name":"Fiat","ID":9254}
+{"Name":"Space Shuttle Peekers","ID":10281}
+{"Name":"Nfinite","ID":10135}
+{"Name":"Capcorn","ID":8729}
+{"Name":"FiRENATiON","ID":7334}
+{"Name":"VengefuL","ID":7729}
+{"Name":"Connect","ID":9113}
+{"Name":"Phoenix Heroes","ID":10307}
+{"Name":"GrayToad","ID":8844}
+{"Name":"Orda","ID":9598}
+{"Name":"1UP","ID":9124}
+{"Name":"Heretics","ID":10486}
+{"Name":"TheDabers","ID":10641}
+{"Name":"Bagu3tte","ID":8908}
+{"Name":"TSV Oftersheim","ID":8984}
+{"Name":"Estanbul","ID":10334}
+{"Name":"Violent Roses","ID":10951}
+{"Name":"gomixhehe","ID":8775}
+{"Name":"Denzaaaa","ID":10101}
+{"Name":"ClearVision","ID":10363}
+{"Name":"Forbidden","ID":10715}
+{"Name":"Compromise","ID":8864}
+{"Name":"New Pampas","ID":10852}
+{"Name":"Nova Academy","ID":9463}
+{"Name":"REHTI","ID":7642}
+{"Name":"Orgless","ID":10861}
+{"Name":"Final Destination","ID":8155}
+{"Name":"Vital","ID":9331}
+{"Name":"fulfill","ID":10102}
+{"Name":"Digital Regiment","ID":8928}
+{"Name":"Wasted Talent","ID":10201}
+{"Name":"Armory","ID":10595}
+{"Name":"Pulsive","ID":8968}
+{"Name":"Expendables","ID":6445}
+{"Name":"Instinct","ID":9310}
+{"Name":"PROSTAKERS","ID":9432}
+{"Name":"MASY","ID":7678}
+{"Name":"GOGOMYTEAM","ID":7230}
+{"Name":"Full Kareta","ID":8949}
+{"Name":"Merciless","ID":7614}
+{"Name":"off mic plz","ID":10829}
+{"Name":"Proximity","ID":8428}
+{"Name":"SEDNA","ID":10193}
+{"Name":"5Hunters","ID":9411}
+{"Name":"nice$hot","ID":9221}
+{"Name":"fantazija","ID":10219}
+{"Name":"PyKu6A3YKu","ID":9971}
+{"Name":"The Naive Ones","ID":9258}
+{"Name":"Pompa Academy","ID":8788}
+{"Name":"Quest","ID":6597}
+{"Name":"ArchNemesis","ID":8442}
+{"Name":"famous5","ID":10032}
+{"Name":"AIMCATS","ID":8793}
+{"Name":"Ballarat Bulldogs","ID":10830}
+{"Name":"hatersg0nnahate","ID":4763}
+{"Name":"no u","ID":9384}
+{"Name":"VG.Anthrax","ID":9375}
+{"Name":"Vapebar","ID":9425}
+{"Name":"RedFear.wild","ID":10196}
+{"Name":"MyGame","ID":10896}
+{"Name":"Drawn to Fulfillment","ID":10461}
+{"Name":"MOST VALUABLE PLAYERS","ID":7330}
+{"Name":"LeetPro fe","ID":8636}
+{"Name":"Acenda","ID":8663}
+{"Name":"DMC","ID":10528}
+{"Name":"Poutine Puggers","ID":8566}
+{"Name":"LevelZero","ID":10659}
+{"Name":"qup","ID":8795}
+{"Name":"Soul Breaker","ID":9731}
+{"Name":"silhouette","ID":7601}
+{"Name":"No Namers","ID":10272}
+{"Name":"Pryde","ID":10984}
+{"Name":"Portal Blue","ID":10271}
+{"Name":"Polar Bears","ID":9531}
+{"Name":"Finesse","ID":9297}
+{"Name":"rashB","ID":10409}
+{"Name":"Ekaterinburg","ID":10099}
+{"Name":"Amaterasu","ID":9114}
+{"Name":"Resistencia","ID":10158}
+{"Name":"Team To Beat","ID":8913}
+{"Name":"Cataclysm","ID":10418}
+{"Name":"tribE","ID":8828}
+{"Name":"GROM F1RST","ID":9721}
+{"Name":"SSP","ID":10967}
+{"Name":"Arcane Wave","ID":10782}
+{"Name":"Entry","ID":10663}
+{"Name":"SLAVGENT","ID":8102}
+{"Name":"Markhor","ID":9734}
+{"Name":"SOLARIS","ID":8298}
+{"Name":"A4E","ID":9732}
+{"Name":"Newhappy","ID":10839}
+{"Name":"No Cap","ID":10110}
+{"Name":"YoungPower","ID":9652}
+{"Name":"ZAG","ID":8733}
+{"Name":"iConic[5]","ID":9171}
+{"Name":"NONAME","ID":10072}
+{"Name":"Emprox","ID":9377}
+{"Name":"Vejle Instinct","ID":10866}
+{"Name":"Nightmare","ID":9170}
+{"Name":"eSpuma","ID":4698}
+{"Name":"Aim4R","ID":10646}
+{"Name":"conspiracy","ID":9252}
+{"Name":"lets go bowlin","ID":9878}
+{"Name":"Malvinas fe","ID":8670}
+{"Name":"Poggers","ID":8808}
+{"Name":"CR@zYReB3L","ID":10346}
+{"Name":"JoinTheForce","ID":10408}
+{"Name":"FIVE","ID":6908}
+{"Name":"eNgine","ID":10553}
+{"Name":"Fit-Pel","ID":10091}
+{"Name":"Incubus","ID":10552}
+{"Name":"play4fun","ID":9509}
+{"Name":"Mirage fe","ID":9608}
+{"Name":"Blink Once for Help","ID":9276}
+{"Name":"Alltech","ID":10856}
+{"Name":"Untitled","ID":8922}
+{"Name":"Istanbul Wildcats","ID":10845}
+{"Name":"Atheris","ID":10899}
+{"Name":"UT Austin","ID":9815}
+{"Name":"Nettisankarit","ID":10043}
+{"Name":"Esper","ID":10572}
+{"Name":"Itakera Classic","ID":10039}
+{"Name":"word_exe","ID":9678}
+{"Name":"TangoWorldWide","ID":9445}
+{"Name":"Xavier","ID":10405}
+{"Name":"Mistaken.Ares","ID":10309}
+{"Name":"iYATi","ID":8000}
+{"Name":"Scorpions","ID":10069}
+{"Name":"CYBERIA","ID":7285}
+{"Name":"Agarthas","ID":10599}
+{"Name":"VajagSalabotBehu","ID":9846}
+{"Name":"Simplify","ID":8862}
+{"Name":"Project Major","ID":10465}
+{"Name":"Devious","ID":9398}
+{"Name":"LAKERS","ID":10842}
+{"Name":"Intense","ID":9440}
+{"Name":"Nerd Nation","ID":9761}
+{"Name":"offBalance","ID":9409}
+{"Name":"Omnius","ID":10335}
+{"Name":"2Be Continued","ID":10367}
+{"Name":"Disenthrone","ID":9423}
+{"Name":"Legacy of Desi Boys","ID":10123}
+{"Name":"Man of the Year","ID":10436}
+{"Name":"ProXima Academy","ID":8789}
+{"Name":"Dangerous Game","ID":10781}
+{"Name":"Moscow Five Yankees","ID":10133}
+{"Name":"JavsrieN","ID":10402}
+{"Name":"GSC Sharks","ID":8929}
+{"Name":"Black Horus","ID":9756}
+{"Name":"Anuncie Aqui","ID":9268}
+{"Name":"REXO","ID":9675}
+{"Name":"WClick","ID":9430}
+{"Name":"JSBF","ID":8841}
+{"Name":"Vainox","ID":10381}
+{"Name":"porg","ID":8760}
+{"Name":"5els","ID":10004}
+{"Name":"EXEC","ID":10161}
+{"Name":"Station-751","ID":9017}
+{"Name":"Equinox","ID":10547}
+{"Name":"Isurus fe","ID":9708}
+{"Name":"Frail Patrol","ID":9083}
+{"Name":"Bitfix","ID":8960}
+{"Name":"POKAMOLODOY","ID":10508}
+{"Name":"Wasted Potential","ID":10369}
+{"Name":"Orion","ID":10707}
+{"Name":"Fake Aim","ID":10077}
+{"Name":"ARCADE","ID":9130}
+{"Name":"LND","ID":10657}
+{"Name":"CYBER LOGOVO","ID":10234}
+{"Name":"Toggle When Needed","ID":9777}
+{"Name":"eRazed","ID":9436}
+{"Name":"pt1SE","ID":10435}
+{"Name":"Legend","ID":9659}
+{"Name":"gejming haus aula","ID":10512}
+{"Name":"Aranea","ID":9312}
+{"Name":"eXtreme","ID":9759}
+{"Name":"ClickHost","ID":9587}
+{"Name":"FiMAGi","ID":5793}
+{"Name":"n0rth reb0rn","ID":9775}
+{"Name":"JHS","ID":9826}
+{"Name":"dsG&amp;friends","ID":9508}
+{"Name":"Outlaws","ID":9655}
+{"Name":"ArkAngel fe","ID":9823}
+{"Name":"Favela","ID":9703}
+{"Name":"Power Ace","ID":8679}
+{"Name":"Wildfire fe","ID":9990}
+{"Name":"Ravens","ID":9975}
+{"Name":"Atlantic","ID":9348}
+{"Name":"Depre","ID":9154}
+{"Name":"Cyclone Ninja","ID":9339}
+{"Name":"Control fe","ID":8554}
+{"Name":"h$hjukken","ID":9462}
+{"Name":"Aetherial","ID":9472}
+{"Name":"ACES","ID":9250}
+{"Name":"Swiss Incredible Rebels","ID":9435}
+{"Name":"Ignition","ID":9282}
+{"Name":"Jerseyboys","ID":10862}
+{"Name":"UP","ID":9471}
+{"Name":"Epic Stomper","ID":9371}
+{"Name":"p0pdrenge","ID":8919}
+{"Name":"FirstTime","ID":10366}
+{"Name":"OX","ID":10312}
+{"Name":"First Picks","ID":9330}
+{"Name":"Red Feet","ID":10679}
+{"Name":"INFURITY","ID":8488}
+{"Name":"Vikingekrig","ID":10617}
+{"Name":"SEMORG","ID":9408}
+{"Name":"MxM","ID":10319}
+{"Name":"XTC","ID":8988}
+{"Name":"WMGC","ID":8527}
+{"Name":"FCG","ID":9811}
+{"Name":"Galkynysh","ID":9746}
+{"Name":"Entry","ID":8200}
+{"Name":"Fusion","ID":9780}
+{"Name":"Electron boy","ID":10246}
+{"Name":"Assault Arena","ID":9473}
+{"Name":"Game of Throw","ID":9760}
+{"Name":"NTC fe","ID":9395}
+{"Name":"DWFN","ID":9451}
+{"Name":"Penn State","ID":9308}
+{"Name":"KPG","ID":8916}
+{"Name":"LAN Lords","ID":9441}
+{"Name":"eDGe","ID":10068}
+{"Name":"Mortal","ID":10037}
+{"Name":"Santos fe","ID":9266}
+{"Name":"5Gamers","ID":9285}
+{"Name":"Power Danger","ID":8596}
+{"Name":"aiMMode","ID":10082}
+{"Name":"Paprykarze","ID":9579}
+{"Name":"Penguins","ID":8705}
+{"Name":"Xwar","ID":10379}
+{"Name":"T-Arena","ID":9638}
+{"Name":"bruto500","ID":8656}
+{"Name":"Howl","ID":10268}
+{"Name":"Snail Trail","ID":9313}
+{"Name":"YeakSa","ID":10279}
+{"Name":"Desperados","ID":9624}
+{"Name":"Value","ID":8889}
+{"Name":"k0pfsache","ID":8850}
+{"Name":"Entry","ID":8201}
+{"Name":"squad","ID":9333}
+{"Name":"Colorado State University","ID":9938}
+{"Name":"In a Hurry","ID":8560}
+{"Name":"Mountain Dew","ID":10136}
+{"Name":"90s druglords","ID":9589}
+{"Name":"The Frag Dolphins","ID":9329}
+{"Name":"Tecsysnet","ID":10580}
+{"Name":"XRM","ID":9367}
+{"Name":"FX","ID":9489}
+{"Name":"Christon ","ID":10248}
+{"Name":"Fidelis","ID":9321}
+{"Name":"t3Kipper","ID":9350}
+{"Name":"ryokas","ID":10345}
+{"Name":"UCAM","ID":10863}
+{"Name":"Victrix","ID":9251}
+{"Name":"nomercy","ID":10377}
+{"Name":"13th Hour","ID":9501}
+{"Name":"Attack All Around","ID":8363}
+{"Name":"Drunkco","ID":9853}
+{"Name":"Champ","ID":8837}
+{"Name":"HaMoPeDe","ID":9809}
+{"Name":"hadtro","ID":10893}
+{"Name":"Red squad","ID":9560}
+{"Name":"Vyb","ID":9318}
+{"Name":"Arvaikheer ","ID":8836}
+{"Name":"NGA","ID":7794}
+{"Name":"Wolfhound","ID":8683}
+{"Name":"United","ID":9465}
+{"Name":"None Just Qatar","ID":8831}
+{"Name":"Hydra","ID":10317}
+{"Name":"LAUNCHPAD DERAIL","ID":9077}
+{"Name":"Kadmus7","ID":9882}
+{"Name":"XDM","ID":9529}
+{"Name":"Ohio Meat Wagon","ID":10122}
+{"Name":"Naevermind","ID":8914}
+{"Name":"Nux","ID":8921}
+{"Name":"Late Arrivals","ID":8858}
+{"Name":"KiM Kardashians","ID":10513}
+{"Name":"Nova Youngsters","ID":9464}
+{"Name":"PROTEA","ID":8528}
+{"Name":"TverbBogi","ID":10239}
+{"Name":"Strong","ID":9352}
+{"Name":"Namibia","ID":9623}
+{"Name":"BKO potata Aim","ID":9558}

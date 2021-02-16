@@ -121,7 +121,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &835792503
+--- !u!1 &165937317
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -129,45 +129,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 835792505}
-  - component: {fileID: 835792504}
+  - component: {fileID: 165937319}
+  - component: {fileID: 165937318}
   m_Layer: 0
-  m_Name: Polygon
+  m_Name: ANALYZER
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &835792504
+--- !u!114 &165937318
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 835792503}
+  m_GameObject: {fileID: 165937317}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39bfc569cf59a0b408792a70eccbf5b0, type: 3}
+  m_Script: {fileID: 11500000, guid: 88676e2e37bba8040a8bb4b7343a07bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teamName: Astralis
-  suitableDelta: 20
-  GET_RESPONSE: 0
-  DB_UNPACK: 0
-  GET_TEAM_STATS: 0
-  GET_UPCOMING_MATCHES: 0
-  FIND_SUITABLE_MATCHES: 0
-  uri: https://www.hltv.org/stats/lineup/map/31?lineup=2544&lineup=10828&lineup=11922&lineup=16645&lineup=16831&minLineupMatch=5&startDate=2020-10-27&endDate=2021-01-25
-  uriUpcomingMatches: https://www.hltv.org/matches
---- !u!4 &835792505
+--- !u!4 &165937319
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 835792503}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.2359192, y: -6.5576525, z: 17.562681}
+  m_GameObject: {fileID: 165937317}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

@@ -1,6 +1,7 @@
 ﻿using System.IO;
 using System.Net;
 using System.Text;
+using System;
 
 public static class HTMLUtility
 {
@@ -29,6 +30,7 @@ public static class HTMLUtility
         catch (System.Exception exception)
         {
             UnityEngine.Debug.LogError(exception);
+            UnityEngine.Debug.LogError("URI ::: " + uri);            
         }
 
         return string.Empty;

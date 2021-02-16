@@ -11,8 +11,8 @@ public class UpcomingMatchesListElement : MonoBehaviour
 
     public void Init(UpcomingMatch upcomingMatch)
     {
-        textFirstTeamName.text = upcomingMatch.FirstTeamID.ToString();
-        textSecondTeamName.text = upcomingMatch.SecondTeamID.ToString();
+        textFirstTeamName.text = TeamIDUtility.GetTeamData(upcomingMatch.FirstTeamID).Name;
+        textSecondTeamName.text = TeamIDUtility.GetTeamData(upcomingMatch.SecondTeamID).Name;
         textDateTime.text = upcomingMatch.DateTime.ToString();
         textEventName.text = upcomingMatch.EventName;
     }

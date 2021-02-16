@@ -40,7 +40,7 @@ public class HLTVAPI : MonoBehaviour
             DEBUG_TEAM_PLAYERS_ID = false;
 
             string html = HTMLUtility.GetResponse(teamPageURI);
-            List<int> teamPlayersID = PlayersIDHAndler.GetTeampPlayersID(html);
+            List<int> teamPlayersID = PlayersIDHAndler.GetTeampPlayersIDFromTeamOverviewPage(html);
             for (int i = 0; i < teamPlayersID.Count; i++)
             {
                 Debug.Log(teamPlayersID[i]);
@@ -52,7 +52,7 @@ public class HLTVAPI : MonoBehaviour
             DEBUG_TEAM_PLAYERS_ID_BY_TEAM_ID = false;
 
             string html = HTMLUtility.GetResponse(TeamIDUtility.BuildURLToTeamOverviewPage(TeamIDUtility.GetTeamData(teamID)));
-            List<int> teamPlayersID = PlayersIDHAndler.GetTeampPlayersID(html);
+            List<int> teamPlayersID = PlayersIDHAndler.GetTeampPlayersIDFromTeamOverviewPage(html);
             for (int i = 0; i < teamPlayersID.Count; i++)
             {
                 Debug.Log(teamPlayersID[i]);
@@ -63,8 +63,8 @@ public class HLTVAPI : MonoBehaviour
         {
             DEBUG_BUILD_URL = false;
 
-            Debug.Log(BuildURL(EMap.Dust2, PlayersIDHAndler.GetTeampPlayersID(HTMLUtility.GetResponse(teamPageURI)).ToArray(),
-                 DateTime.Now.Subtract(new TimeSpan(90, 0, 0, 0, 0)), DateTime.Now));
+            Debug.Log(BuildURL(map, PlayersIDHAndler.GetTeampPlayersIDFromTeamOverviewPage(HTMLUtility.GetResponse(TeamIDUtility.BuildURLToTeamOverviewPage(TeamIDUtility.GetTeamData(teamID)))).ToArray(),
+                 SimpleDateTime.Now.Subtract(90), SimpleDateTime.Now));
         }
 
         if (GET_TEAM_NAME_BY_ID)
@@ -82,8 +82,8 @@ public class HLTVAPI : MonoBehaviour
 
             string teamOverviewPageURL = TeamIDUtility.BuildURLToTeamOverviewPage(TeamIDUtility.GetTeamData(teamID));
 
-            string url = BuildURL(map, PlayersIDHAndler.GetTeampPlayersID(HTMLUtility.GetResponse(teamOverviewPageURL)).ToArray(),
-                 DateTime.Now.Subtract(new TimeSpan(90, 0, 0, 0, 0)), DateTime.Now);
+            string url = BuildURL(map, PlayersIDHAndler.GetTeampPlayersIDFromTeamOverviewPage(HTMLUtility.GetResponse(teamOverviewPageURL)).ToArray(),
+                 SimpleDateTime.Now.Subtract(90), SimpleDateTime.Now);
 
             string html = HTMLUtility.GetResponse(url);
 
@@ -95,7 +95,7 @@ public class HLTVAPI : MonoBehaviour
 
 
 
-    public static string BuildURL(EMap map, int[] playersID, DateTime startDate, DateTime endDate)
+    public static string BuildURL(EMap map, int[] playersID, SimpleDateTime startDate, SimpleDateTime endDate)
     {
         string url = string.Empty;
 
@@ -113,91 +113,4 @@ public class HLTVAPI : MonoBehaviour
 
         return url;
     }
-}
-
-public static class TeamIDUtility
-{
-    private static string TeamsDBPath => Path.Combine(Application.streamingAssetsPath, "Teams.txt");
-
-    private static TeamData[] teamsDB = null;
-    private static TeamData[] TeamsDB
-    {
-        get
-        {
-            if (teamsDB == null)
-            {
-                if (File.Exists(TeamsDBPath))
-                {
-                    using (StreamReader stream = File.OpenText(TeamsDBPath))
-                    {
-                        string json = stream.ReadToEnd();
-
-                        string[] lines = json.Split('\n');
-
-                        teamsDB = new TeamData[lines.Length];
-
-                        for (int i = 0; i < lines.Length - 1; i++)
-                        {
-                            teamsDB[i] = JsonUtility.FromJson<TeamData>(lines[i]);
-                        }
-                    }
-                }
-                else
-                {
-                    string html = HTMLUtility.GetResponse("https://www.hltv.org/stats/teams?startDate=2020-10-25&endDate=2021-01-25&minMapCount=10");
-
-                    teamsDB = HLTVParcer.GetAllTeams(html).ToArray();
-
-                    using (StreamWriter stream = File.CreateText(TeamsDBPath))
-                    {
-                        for (int i = 0; i < teamsDB.Length; i++)
-                        {
-                            string json = JsonUtility.ToJson(teamsDB[i]);
-                            stream.WriteLine(json);
-                        }
-                    }
-                }
-            }
-
-            return teamsDB;
-        }
-    }
-
-
-    public static TeamData GetTeamData(int id)
-    {
-        for (int i = 0; i < TeamsDB.Length; i++)
-        {
-            if (TeamsDB[i].ID == id)
-            {
-                return TeamsDB[i];
-            }
-        }
-
-        return null;
-    }
-
-    public static string CorrectTeamNameForURL(string teamName)
-    {
-        return teamName.Replace(' ', '-');
-    }
-
-    public static string BuildURLToTeamOverviewPage(this TeamData teamData)
-    {
-        string url = string.Empty;
-
-        url = "https://www.hltv.org/team/";
-        url += (teamData.ID + "/");
-        url += (CorrectTeamNameForURL(teamData.Name));
-
-        return url;
-    }
-}
-
-
-[Serializable]
-public class TeamData
-{
-    public string Name;
-    public int ID;
 }
